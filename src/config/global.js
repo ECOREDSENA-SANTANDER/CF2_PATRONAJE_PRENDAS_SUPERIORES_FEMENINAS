@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Patronaje de bases superiores femeninas',
+    Description:
+      'El patronaje es un proceso técnico que permite crear moldes para la confección, apoyado en metodologías como el manual de patronaje del SENA y convenciones gráficas. Incluye el trazo de patrones base femeninos, como corpiño, blusa y manga, así como piezas complementarias como cuellos y bolsillos. En el ámbito industrial, el escalado adapta estos moldes a distintas tallas. Este conocimiento es clave en la producción técnica y creativa de prendas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
