@@ -36,27 +36,81 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Patronaje',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Tipos de patronaje y líneas',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Procedimiento y entorno',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Metodología y manual de patronaje SENA',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Metodología y convenciones',
+            hash: 't_1_4',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Patrones base de prendas femeninas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Trazo de corpiño básico femenino',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Traslado de pinzas de corpiño',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Análisis y trazo de sistema de ajuste (pinzas y cortes)',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Trazo básico de manga',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Piezas complementarias',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Cuellos',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Bolsillos',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Comprobación del patrón base',
         desarrolloContenidos: true,
       },
     ],
