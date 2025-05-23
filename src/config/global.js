@@ -161,21 +161,118 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Trazo de bitácora de formas. ',
+      referencia:
+        'Aprende y Emprende. (2022, 3 de diciembre). Clase 1: Toma de medidas – Patronaje femenino paso a paso.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ppEdTvy94eU&t=1102s',
+    },
+    {
+      tema: 'Técnicas de achurados y acabados de la prenda',
+      referencia:
+        'Aprende y Emprende. (2022, 4 de diciembre). Clase 2: Trazo del patrón delantero – Patronaje femenino paso a paso.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Di4R3jHoNkQ',
+    },
+    {
+      tema: 'Reconocimientos de las prendas',
+      referencia:
+        'Aprende y Emprende. (2022, 6 de diciembre). Clase 3: Trazo del patrón posterior – Patronaje femenino paso a paso. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=FHhqkd0h4Kw',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Estándar',
+      significado:
+        'sirve de patrón, modelo o punto de referencia para medir o valorar cosas de la misma especie.',
+    },
+    {
+      termino: 'Talla',
+      significado:
+        'expresión normalizada que permite identificar a las personas para el uso de prendas de vestir.',
+    },
+    {
+      termino: 'Trazo de un plano',
+      significado:
+        'en lo referente al oficio del patronista, el trazo de un plano hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
+    },
+    {
+      termino: 'Patronaje',
+      significado:
+        'oficio dedicado a la creación de patrones en la línea de vestuario que permitan la construcción de prendas de vestir.',
+    },
+    {
+      termino: 'Molde',
+      significado:
+        'termino usado en el patronaje para señalar que después del trazo de planos se llegan a abstraer los elementos que permiten proceder con el corte del textil.',
+    },
+    {
+      termino: 'Cabeza de manga',
+      significado:
+        'curvatura superior de la manga que se adapta a la sisa. su altura varía según el tipo de prenda y afecta el movimiento y estructura.',
+    },
+    {
+      termino: 'Crecimiento de talla',
+      significado:
+        'incremento aplicado a un patrón para generar tallas superiores a partir de una base, manteniendo proporciones anatómicas.',
+    },
+    {
+      termino: 'Diferencia de talla',
+      significado:
+        'valor numérico que indica la variación entre tallas en una medida específica, base para calcular proporciones de escalado.',
+    },
+    {
+      termino: 'Escalado',
+      significado:
+        'técnica que permite aumentar o reducir un patrón base para obtener múltiples tallas manteniendo forma y ajuste.',
+    },
+    {
+      termino: 'Plano',
+      significado:
+        'superficie gráfica compuesta por ejes x e y que se usa para ubicar puntos y aplicar proporciones en el trazo y escalado de patrones.',
+    },
+    {
+      termino: 'Proporción',
+      significado:
+        'unidad de medida que representa el crecimiento o reducción aplicado a un punto del patrón según el tipo de plano.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Aldrich, W. (2008). Metric pattern cutting for womens wear (5th ed.). Wiley-Blackwell.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hall, S. J. (2021). Basic biomechanics (9th ed.). McGraw-Hill Education.',
+      link: '',
+    },
+    {
+      referencia:
+        'Norton, K. (2019). Anthropometry and biomechanics: Foundations for human movement analysis. Routledge.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (1995). El estado físico: uso e interpretación de la antropometría.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje. SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero, Regional Distrito Capital.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje. SENA. (2020). Equipo de diseño curricular. Técnico en patronaje industrial de prendas de vestir.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje. SENA. (2021). Equipo de diseño curricular.  Técnico en Elaboración de prendas de vestir sobre medidas. ',
       link: '',
     },
   ],
@@ -199,9 +296,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -209,18 +311,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yuly Andrea Rey Quiñonez ',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño ',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
