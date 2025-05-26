@@ -39,4 +39,86 @@ figcaption
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/banner-interno.png") !important
 
- 
+.subt
+  position: relative
+  width: fit-content
+  padding-right: 20px
+  &::before
+    content: ''
+    position: absolute
+    background-color: #FF494F
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-xs)
+    &::before
+      height: 100%
+      top: 1px
+
+.subt2
+  position: relative
+  width: fit-content
+  padding-right: 20px
+  &::before
+    content: ''
+    position: absolute
+    background-color:  #FF494F
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media screen and (min-device-width: 767px) and (max-device-width: 1180px)
+    &::before
+      height: 107%
+      top: -12px
+    h3
+      margin-left: 87px
+      margin-top: -54px
+      padding-bottom: 23px
+  @media screen and (max-width: 767px)
+    &::before
+      height: 140%
+      top: -24px
+    h3
+      margin-left: 2px
+      margin-top: -9px
+      padding-bottom: 4px
+
+// fondos
+
+.bgamarillo
+  background-color: #FFFCEF
+
+
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+.lista-ul--color li > i:first-of-type 
+  color: #FF494F
