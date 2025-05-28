@@ -189,7 +189,7 @@
                 h4.mb-1 Se invita a explorar el PDF – Pasos para definir  el patronaje.
                 p.mb-0 Pasos que se deben seguir para realizar el procedimiento de patronaje.
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -209,7 +209,7 @@
                 h4.mb-1  Se invita a explorar el PDF – Pasos para definir el patronaje.
                 p.mb-0 Manual de patronaje del SENA.
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -328,7 +328,7 @@
                 h4.mb-1 Se invita a explorar el PDF
                 p.mb-0 Manual de patronaje básico e interpretación  de diseños
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 

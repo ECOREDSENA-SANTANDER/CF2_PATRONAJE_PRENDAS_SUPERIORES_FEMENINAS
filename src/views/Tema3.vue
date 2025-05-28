@@ -181,9 +181,9 @@
         .col-md-auto.col-9.ps-0
           h3.mb-0.text-black Escotes, cuellos y solapas
 
-    .row
+    .row.fondo31
 
-      .row.align-items-end.mb-5(data-aos="fade-left")
+      .row.align-items-end.mb-5(data-aos="fade-left").px-3.mx-3
         .col-lg-4.col-md-6.col-12
           img(src='@/assets/curso/t3/img7.png', alt='')
         .col-lg-4.col-md-12.col-12
@@ -271,7 +271,7 @@
       p.pt-5.px-5 Los nombres de los escotes y cuellos pueden variar según el entorno comercial o de moda, pero lo más relevante en patronaje es comprender su funcionamiento técnico y cómo deben comportarse sobre el cuerpo.
       p.px-5 En el trazo de cuellos, se trabaja desde una lógica funcional, no comercial. Por eso, en patronaje técnico, todos los cuellos se clasifican en tres grandes grupos según su forma de construcción:
 
-    .row
+    .row.mb-5
       .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgrosada.p-4
           .row.justify-content-center.mb-4
@@ -292,6 +292,56 @@
             .col-auto
               img(src='@/assets/curso/t3/tar1-ia.png', alt='Texto que describa la imagen')
           p.px-3.mb-0.mt-3.text-center Cuellos por extensión: surgen como prolongación del mismo patrón, sin pieza adicional, y se pliegan o doblan sobre la prenda.
+
+    .tarjeta.color-primario.p-3(data-aos="fade")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/t2/img7.png")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h4.mb-1  Video – Trazo de escotes y tipo de cuellos.
+              p.mb-0 Paso a paso para el trazo de escotes y tipos de cuellos. 
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s" target="_blank")
+                span Ver Video
+                i.fas.fa-link
+
+    Separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2 3.2 Bolsillos
+
+    p.mb-5 Existen diferentes clases de bolsillos y unas variantes que dependen del diseño requerido. A continuación, se relacionan los más representativos:
+
+    .row.justify-content-center.align-items-start.mb-4
+      .col-lg-12.col-md-12.col-sm-12
+        TabsA.color-acento-botones
+          .tarjeta.color-primario-claro.p-4(titulo="Bolsillo básico")
+            .row.justify-content-center
+              .col-lg-6.col-md-6.col-sm-12
+                p Este tipo de bolsillo es versátil y puede aplicarse en prendas como blusas, vestidos o camisetas. Para su construcción, lo primero es definir el tamaño según el diseño. Por ejemplo, se puede iniciar con un rectángulo de 6 x 12 cm.
+                p Desde el centro del borde inferior, se prolongan 2,5 cm hacia abajo, y luego se unen ambos extremos inferiores con ese punto, formando una base ligeramente en pico. Finalmente, se agregan márgenes de costura en todo el contorno y dobladillo en el borde superior para su acabado.
+              .col-lg-5.col-md-5.col-sm-12
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 32.
+                  | Escote redondo 
+                figure
+                  img.mb-1(src='@/assets/curso/t3/fig32.png', alt='Bolsillo de forma rectangular con una terminación en punta en la parte inferior. Sus medidas son 6 cm de ancho por 12 cm de largo, con un ángulo inferior de 2,5 cm. Está ubicado en el lado izquierdo del delantero de una prenda superior, y se sugiere incluir márgenes para costura y dobladillo.')
+                figcaption Fuente: SENA, (2021).
+          .tarjeta.color-primario-claro.p-4(titulo="Bolsillo con pliegue")
+            .row.justify-content-center
+              .col-lg-6.col-md-6.col-sm-12
+                p Este tipo de bolsillo se construye a partir de un rectángulo base, cuyo tamaño debe definirse según el diseño de la prenda. Por ejemplo, se puede iniciar con un rectángulo de 6 cm x 12 cm.
+                p A continuación, se corta el rectángulo por la mitad en sentido vertical y se inserta el espacio necesario para el pliegue en esa división, de acuerdo con el volumen deseado. Una vez ajustada la forma, se agregan los márgenes de costura alrededor del contorno y el dobladillo en el borde superior.
+              .col-lg-5.col-md-5.col-sm-12
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 33.
+                  | Escote redondo 
+                figure
+                  img.mb-1(src='@/assets/curso/t3/fig33.png', alt='Diferentes tipos de bolsillos decorativos diseñados para prendas superiores. Incluye bolsillos rectangulares y con terminaciones en ángulo. Algunos modelos tienen detalles verticales marcados al centro, y uno de ellos incorpora una tapa. Las dimensiones varían entre 3 y 6 cm de ancho, y entre 3,5 y 5 cm de alto, con sugerencias de costura indicadas por líneas punteadas.')
+                figcaption Fuente: SENA, (2021).
+
+
 
 
 

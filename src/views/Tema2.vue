@@ -100,7 +100,7 @@
               h4.mb-1 Se invita a explorar el PDF – Manual de patronaje básico e interpretación de diseños.
               p.mb-0 Patrón base superior femenino. Leer de la página 20 a 25.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -114,7 +114,7 @@
               h4.mb-1 Se invita a explorar el PDF
               p.mb-0 Pasos para el trazo de la base superior .
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/3_Anexo.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -209,7 +209,7 @@
               h4.mb-1 Video - Traslados de pinza correctiva de talles.
               p.mb-0 Explorar video explicativo sobre cómo se hacen traslados de pinza correctiva de talles.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 
@@ -239,7 +239,7 @@
               h4.mb-1 Video - Análisis y trazo de sistema de ajuste pinzas y cortes.
               p.mb-0 Video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 
@@ -521,7 +521,7 @@
               h4.mb-1 Video – Trazo de manga y cabezas de manga.
               p.mb-0 Paso a paso para conocer el trazo de manga y cabezas de manga. 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=EAl_FBfkYUE" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 
@@ -535,7 +535,7 @@
               h4.mb-1  Se invita a explorar el  PDF – Manual de patronaje básico para interpretación de diseños.
               p.mb-0 Otras formas para sacar o deducir la altura de cabeza de manga. Ver páginas 26 a la 44.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
