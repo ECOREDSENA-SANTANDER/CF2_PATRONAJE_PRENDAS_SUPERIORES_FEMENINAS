@@ -16,13 +16,13 @@
 
     p.mb-5 Este proceso tiene por objetivo verificar que el corpiño y la manga básica en talla 8 reproducen fielmente las medidas antropométricas y holguras estándar, garantizando equilibrio, comodidad y viabilidad industrial antes de escalar o diseñar transformaciones. Por lo anterior, se partirá del patrón del corpiño y manga básica.
 
-    .row.mb-(data-aos="fade-left")
+    .row.mb-5(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12
         .row
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo A. Materiales, insumos y herramientas
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 3.
         | Materiales, insumos y herramientas para el proceso de comprobación 
@@ -36,7 +36,7 @@
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo B. Requerimientos previos necesarios.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-8.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
@@ -84,9 +84,9 @@
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo C. Preparación del patrón base
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-4.col-md-6.col-sm-12
-        img(src='@/assets/curso/t4/img3.png', alt='')
+        img(src='@/assets/curso/t4/img3.png', alt='').d-none.d-lg-block
       .col-lg-8.col-md-12.col-sm-12
         .row
           .col-lg-6.col-md-12.col-sm-12
@@ -124,8 +124,8 @@
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo D. Proceso de corte
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7.col-md-9.col-sm-12
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-7.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
           | Pasos del proceso de corte del patrón base
@@ -141,7 +141,7 @@
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo E. Construcción del prototipo
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
       .col-lg-8.col-md-12.col-sm-12
         .row.bgamarillo2
           h3.mb-4.mt-4.px-4 #[b Ensamblaje manual (alta costura)]
@@ -166,8 +166,8 @@
 
     h3.mb-5 #[b Ensamblaje en máquina (método industrial)]
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7.col-md-9.col-sm-12
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-7.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
           | Orden del proceso de ensamblaje del protoitpo
@@ -176,7 +176,7 @@
         figcaption Fuente: SENA, (2021).
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10.col-md-12.col-sm-12
         .row.p-5.bgamarillomas
           .col-auto
@@ -193,8 +193,8 @@
 
     .row.fondo41
 
-      .row.justify-content-center.align-items-start.mb-5.px-5
-        .col-lg-6.col-md-8.col-sm-12
+      .row.justify-content-center.align-items-start.mb-5.px-5(data-aos="fade")
+        .col-lg-6.col-md-12.col-sm-12
           h3.mb-5 #[b Lista de chequeo del corpiño básico]
           .titulo-sexto.color-acento-contenido
             h5 Tabla 7.
@@ -202,7 +202,7 @@
           figure
             img.mb-1(src='@/assets/curso/t4/tabla7.png', alt='Lista de ítems para verificación del calce con sus respectivos criterios: la línea de busto horizontal debe estar paralela al suelo; la pinza de busto con vértice a 2 cm del busto; holgura de busto de +4 cm ± 0,5 cm y de cintura de +2 cm ± 0,5 cm; caída de hombro entre 12 y 15 grados; sisa con despegue de 1 cm sin pellizcar; escote plano y sin aberturas; y costado perpendicular al piso.')
           figcaption Fuente: SENA, (2021).
-        .col-lg-6.col-md-8.col-sm-12
+        .col-lg-6.col-md-12.col-sm-12
           h3.mb-5 #[b Lista de chequeo del corpiño + manga]
           .titulo-sexto.color-acento-contenido
             h5 Tabla 8.
@@ -217,7 +217,7 @@
           .col-auto
             h3.bgmorado.py-2.px-3.borde-redondo G. Transferencia de ajustes
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8.col-md-12.col-sm-12
         .row.bgamarillo2.p-5
           ul.lista-ul--color.fa-al.px-4
@@ -239,7 +239,81 @@
       .col-lg-4.col-md-6.col-sm-12
         img(src='@/assets/curso/t4/img9.png', alt='')
 
+    .row.mb-5(data-aos="fade-left")
+      .col-lg-7.col-md-12.col-sm-12
+        .row
+          .col-auto
+            h3.bgmorado.py-2.px-3.borde-redondo H. Criterios de aprobación final 
 
+    .row.bgfondo41(data-aos="fade").mb-5
+      .col-lg-5.col-md-7.col-12
+        img.mt-0.mover21(src='@/assets/curso/t4/img10.png', alt='').d-none.d-lg-block
+      .col-lg-7.col-md-12.col-sm-12
+        .row.mt-5
+          .col-auto
+            img(src='@/assets/curso/t4/img11.png', alt='')
+          ul.lista-ul--color.fa-al.mt-4
+            li.mb-0 
+              i.fas.fa-check-circle
+              span.mb-2 Todas las mediciones dentro de ± 0,5 cm de la tabla.
+            li.mb-0 
+              i.fas.fa-check-circle
+              span.mb-2 Arrugas radiales eliminadas; embebido uniforme en corona.
+            li.mb-0 
+              i.fas.fa-check-circle
+              span.mb-2 Movilidad completa sin distorsión del corpiño.
+            li.mb-0 
+              i.fas.fa-check-circle
+              span.mb-2 Costuras verticales y horizontales equilibradas.
+
+
+    .row.mb-5(data-aos="fade-left")
+      .col-lg-7.col-md-12.col-sm-12
+        .row
+          .col-auto
+            h3.bgmorado.py-2.px-3.borde-redondo I. Registro y archivo de las observaciones
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
+      .col-lg-10.col-md-12.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 9.
+          | Registro de observaciones
+        figure
+          img.mb-1(src='@/assets/curso/t4/tabla9.png', alt='Documentos requeridos al finalizar el proceso: la ficha técnica final debe incluir versión, medidas finales, holguras, fecha y responsable, en formato PDF etiquetado e impreso; las fotografías deben mostrar frente, costado y espalda con brazos relajados y elevados, presentadas como imagen con texto alternativo (alt-text); y los patrones definitivos deben ser el corpiño y la manga en talla 8 versión final, archivados en un cartapacio rígido rotulado.')
+        figcaption Fuente: SENA, (2021).
+
+    .row.mb-5(data-aos="fade-left")
+      .col-lg-7.col-md-12.col-sm-12
+        .row
+          .col-auto
+            h3.bgmorado.py-2.px-3.borde-redondo J. Recomendaciones
+
+    .row.fondo43
+    
+      .row.justify-content-center.align-items-center.mb-5.px-5
+        .col-lg-12.col-md-12.col-sm-12
+          .titulo-sexto.color-acento-contenido
+            h5 Tabla 10.
+            | Recomendaciones en ajuste de errores comunes
+          figure
+            img.mb-1(src='@/assets/curso/t4/tabla10.png', alt='Errores frecuentes en muestras de confección, organizados por zonas del cuerpo: corpiño (busto, cintura, hombro, sisa, escote, costado) y manga (corona, bíceps, puño). Para cada zona, se indica el error visible, la causa principal en el patrón y el ajuste sugerido. Los errores incluyen arrugas, bolsas, tirantez, huecos, escotes abiertos, inclinaciones, frunces, exceso o falta de ancho, entre otros, y los ajustes proponen modificaciones específicas en profundidad de pinzas, holguras, curvas, costuras y piezas del patrón.')
+          figcaption Fuente: SENA, (2021).
+
+
+    .row.mb-5(data-aos="fade-left")
+      .col-lg-7.col-md-12.col-sm-12
+        .row
+          .col-auto
+            h3.bgmorado.py-2.px-3.borde-redondo K. Lista de abreviaturas y símbolos a tener en cuenta
+  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.col-md-12.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 11.
+          | Lista de abreviaturas y símbolos
+        figure
+          img.mb-1(src='@/assets/curso/t4/tabla11.png', alt='Abreviaturas y símbolos utilizados en el instructivo de patronaje, con su significado y contexto de uso. Incluye referencias como CF (Centro Frente), CB (Centro Espalda), F (Frente), B (Espalda), H (Hombro) y versiones de patrón (v1, v2...). También se explican símbolos técnicos como Stay-stitch para estabilizar costuras, piquetes para ensamblar, líneas de frunce, tolerancias de medida (±0,5 cm) y márgenes de costura estándar (1 cm, 1,5 cm, etc.), todos clave para guiar la manipulación y confección de las piezas.')
+        figcaption Fuente: SENA, (2021).
 
 
 
