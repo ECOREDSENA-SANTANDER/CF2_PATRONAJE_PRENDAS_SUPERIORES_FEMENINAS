@@ -112,7 +112,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1 Se invita a explorar el PDF
-              p.mb-0 Pasos para el trazo de la base superior .
+              p.mb-0 Pasos para el trazo de la base superior.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/3_Anexo.pdf')" target="_blank")
                 span Descargar
@@ -373,7 +373,7 @@
           li.mb-0 
             i.fas.fa-check-circle
             span.mb-4 Una cabeza de manga más baja ofrece mayor comodidad y libertad de movimiento, aunque con menos estructura, lo cual es característico de prendas holgadas o deportivas.
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-3
           .col-auto
             img(src='@/assets/curso/t2/img17.png', alt='')
           .col
@@ -389,6 +389,7 @@
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-4 Altura intermedia → prendas casuales.
+        p Este análisis permite adaptar el patrón de manga al estilo, uso y confort esperado de la prenda.
       .col-lg-6.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 10.

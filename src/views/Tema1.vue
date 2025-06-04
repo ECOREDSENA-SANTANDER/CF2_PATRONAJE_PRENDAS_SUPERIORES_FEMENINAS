@@ -77,7 +77,7 @@
             h3.mb-0.text-black A. Patronaje industrial
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
-        p.mb-3 Este tipo de patronaje parte del análisis antropométrico de la figura humana en 3D y se desarrolla en 2D, ya sea en papel o mediante software especializado como Audaces 360, Optitex, Gerber o Lectra. Su metodología precisa permite trazar básicos, desarrollar patrones y realizar transformaciones de forma eficiente.
+        p.mb-3 Este tipo de patronaje parte del análisis antropométrico de la figura humana en 3D y se desarrolla en 2D, ya sea en papel o mediante #[em software] especializado como Audaces 360, Optitex, Gerber o Lectra. Su metodología precisa permite trazar básicos, desarrollar patrones y realizar transformaciones de forma eficiente.
         p.mb-4 Se basa en tablas de medidas definidas según regiones y tipos de prenda, lo que facilita el escalado. A partir de una talla base, se aplican incrementos estandarizados para generar múltiples tallas sin necesidad de crear nuevos moldes, optimizando así la producción en serie.
 
         .col-lg-7.col-md-12.col-sm-12.bgamarillo.px-5(data-aos="fade-right")
@@ -209,7 +209,7 @@
                 h4.mb-1  Se invita a explorar el PDF – Pasos para definir el patronaje.
                 p.mb-0 Manual de patronaje del SENA.
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/4_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 

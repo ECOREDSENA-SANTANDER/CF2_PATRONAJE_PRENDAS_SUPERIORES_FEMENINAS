@@ -20,7 +20,7 @@ export default {
       tema: 'Patronaje de bases superiores femeninas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b>Relacionar pasos y procedimientos del patronaje industrial.',
+        '<b> Objetivo:</b> Relacionar pasos y procedimientos del patronaje industrial.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

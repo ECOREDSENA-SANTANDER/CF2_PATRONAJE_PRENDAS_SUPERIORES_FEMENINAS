@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.png", alt="Esquema de contenido sobre patronaje de bases superiores femeninas, dividido en cuatro grandes bloques: Patronaje, que abarca tipos, procedimientos y metodologías; Patronaje base de prendas femeninas, que incluye el trazo de corpiño, traslado de pinzas, sistema de ajuste y manga básica; Piezas complementarias, como cuellos y bolsillos; y Comprobación del patrón base, donde se consideran materiales, insumos y el ensamblaje final para su verificación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

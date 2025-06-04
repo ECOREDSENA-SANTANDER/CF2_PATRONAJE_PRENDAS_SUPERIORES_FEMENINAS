@@ -43,7 +43,7 @@
           | Parámetros de las dimensiones del patrón base
         figure
           img.mb-1(src='@/assets/curso/t4/tabla4.png', alt='Medidas base para la talla 8, esenciales en el patronaje de prendas superiores. El busto mide 88 cm con una holgura inicial recomendada de +4 cm; la cintura es de 68 cm con +2 cm de holgura; la altura de busto está entre 19 y 20 cm sin holgura adicional. La cabeza de manga mide 15 cm y el puño de manga, 24 cm, sin indicación de holgura inicial, ya que estas medidas dependen del diseño específico de la prenda.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2025).
       .col-lg-7.col-md-12.col-sm-12
         .row
           .col-lg-6.col-md-12.col-sm-12
@@ -131,7 +131,7 @@
           | Pasos del proceso de corte del patrón base
         figure
           img.mb-1(src='@/assets/curso/t4/tabla5.png', alt='Cinco pasos básicos para cortar una prenda en muselina. Primero, se plancha la tela y se coloca recta sobre la mesa. Luego, se alinean las líneas centrales del patrón y la dirección del hilo de la manga paralelos al borde de la tela. Se dibujan los contornos y líneas internas como busto, cintura y sisa, y se marcan pequeñas señales de corte. Después, se agregan márgenes de costura. Finalmente, se cortan las piezas sin levantar la tela y se identifican con etiquetas para frente, espalda y manga.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2025).
       .col-lg-5.col-md-7.col-sm-12
         img(src='@/assets/curso/t4/img6.png', alt='')
 
@@ -170,10 +170,10 @@
       .col-lg-7.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          | Orden del proceso de ensamblaje del protoitpo
+          | Orden del proceso de ensamblaje del prototipo
         figure
           img.mb-1(src='@/assets/curso/t4/tabla6.png', alt='El orden de operaciones para confeccionar una prenda superior. Se inicia con una costura de refuerzo en las sisas usando puntada de 2,5 mm, seguida de la costura de pinzas con puntadas entre 2,5 y 3 mm y remates. Luego se unen los hombros y costados con apertura y planchado de costuras. Se realiza frunce en la corona de la manga con puntadas de 4 mm a 0,7 y 1 cm. Después se cierra el bajomanga y se plancha hacia atrás. Se monta la manga ajustando piquetes y frunces con puntadas de 2,5 a 3 mm. Finalmente, se plancha la cabeza de la manga con vapor medio sobre una almohadilla.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2025).
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -201,7 +201,7 @@
             | Lista de chequeo de los elementos del corpiño
           figure
             img.mb-1(src='@/assets/curso/t4/tabla7.png', alt='Lista de ítems para verificación del calce con sus respectivos criterios: la línea de busto horizontal debe estar paralela al suelo; la pinza de busto con vértice a 2 cm del busto; holgura de busto de +4 cm ± 0,5 cm y de cintura de +2 cm ± 0,5 cm; caída de hombro entre 12 y 15 grados; sisa con despegue de 1 cm sin pellizcar; escote plano y sin aberturas; y costado perpendicular al piso.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2025).
         .col-lg-6.col-md-12.col-sm-12
           h3.mb-5 #[b Lista de chequeo del corpiño + manga]
           .titulo-sexto.color-acento-contenido
@@ -209,7 +209,7 @@
             | Lista de chequeo por ítems
           figure
             img.mb-1(src='@/assets/curso/t4/tabla8.png', alt='Criterios de revisión para el montaje de la manga: la diferencia entre la longitud de la sisa y la curva de la manga debe ser igual o menor a 0,3 cm; el embebido en la corona debe verse liso, sin frunces; los piquetes deben coincidir con 1 delantero, 2 espalda y hombro alineados; el giro del brazo debe permitir una elevación de 90° sin tirantez; y la costura del costado al bajomanga debe formar una línea continua y fluida.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2025).
 
     .row.mb-3(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12
@@ -280,7 +280,7 @@
           | Registro de observaciones
         figure
           img.mb-1(src='@/assets/curso/t4/tabla9.png', alt='Documentos requeridos al finalizar el proceso: la ficha técnica final debe incluir versión, medidas finales, holguras, fecha y responsable, en formato PDF etiquetado e impreso; las fotografías deben mostrar frente, costado y espalda con brazos relajados y elevados, presentadas como imagen con texto alternativo (alt-text); y los patrones definitivos deben ser el corpiño y la manga en talla 8 versión final, archivados en un cartapacio rígido rotulado.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2025).
 
     .row.mb-5(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12
@@ -297,7 +297,7 @@
             | Recomendaciones en ajuste de errores comunes
           figure
             img.mb-1(src='@/assets/curso/t4/tabla10.png', alt='Errores frecuentes en muestras de confección, organizados por zonas del cuerpo: corpiño (busto, cintura, hombro, sisa, escote, costado) y manga (corona, bíceps, puño). Para cada zona, se indica el error visible, la causa principal en el patrón y el ajuste sugerido. Los errores incluyen arrugas, bolsas, tirantez, huecos, escotes abiertos, inclinaciones, frunces, exceso o falta de ancho, entre otros, y los ajustes proponen modificaciones específicas en profundidad de pinzas, holguras, curvas, costuras y piezas del patrón.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2025).
 
 
     .row.mb-5(data-aos="fade-left")
@@ -313,7 +313,7 @@
           | Lista de abreviaturas y símbolos
         figure
           img.mb-1(src='@/assets/curso/t4/tabla11.png', alt='Abreviaturas y símbolos utilizados en el instructivo de patronaje, con su significado y contexto de uso. Incluye referencias como CF (Centro Frente), CB (Centro Espalda), F (Frente), B (Espalda), H (Hombro) y versiones de patrón (v1, v2...). También se explican símbolos técnicos como Stay-stitch para estabilizar costuras, piquetes para ensamblar, líneas de frunce, tolerancias de medida (±0,5 cm) y márgenes de costura estándar (1 cm, 1,5 cm, etc.), todos clave para guiar la manipulación y confección de las piezas.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2025).
 
 
 

@@ -22,8 +22,8 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 14.
           | Líneas en botones
-        figure
-          img.mb-1(src='@/assets/curso/t3/fig14.png', alt='Guía de tamaños de botones según su línea y diámetro, desde 7 mm hasta 5 cm. También se incluyen tipos de botones: planos, con oreja y de distintas formas, así como variaciones de ojales rectos, con ojo y con pestañas. La información está representada con formas y medidas proporcionales.')
+        figure  
+          img.mb-1(src='@/assets/curso/t3/fig14.svg', alt='Guía de tamaños de botones según su línea y diámetro, desde 7 mm hasta 5 cm. También se incluyen tipos de botones: planos, con oreja y de distintas formas, así como variaciones de ojales rectos, con ojo y con pestañas. La información está representada con formas y medidas proporcionales.')
         figcaption Fuente: SENA, (2021).
       .col-lg-6.col-md-8.col-12
         img(src='@/assets/curso/t3/img1.png', alt='')
@@ -104,7 +104,7 @@
       .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/t3/img5.png', alt='')
 
-    p.mb-5 Carteras, perillas, martingala o plaquetas: son piezas independientes que se utilizan para abotonar. A continuación, se presentan los pasos que se deben seguir para su realización:
+    p.mb-5 #[b Carteras, perillas, martingala o plaquetas:] son piezas independientes que se utilizan para abotonar. A continuación, se presentan los pasos que se deben seguir para su realización:
 
     .row
       .col-lg-4.col-md-6.col-12
@@ -277,21 +277,21 @@
           .row.justify-content-center.mb-4
             .col-auto
               img(src='@/assets/curso/t3/tar1-ia.png', alt='Texto que describa la imagen')
-          p.px-3.mb-4.mt-3.text-center Cuellos por medida de contorno: se desarrollan a partir del recorrido completo del escote (delantero y posterior).
+          p.px-3.mb-4.mt-3.text-center #[b Cuellos por medida de contorno:] se desarrollan a partir del recorrido completo del escote (delantero y posterior).
 
       .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgrosada.p-4
           .row.justify-content-center.mb-4
             .col-auto
               img(src='@/assets/curso/t3/tar1-ia.png', alt='Texto que describa la imagen')
-          p.px-3.mb-4.mt-3.text-center Cuellos por unión de hombro: se construyen a partir del punto de unión entre el escote y la línea de hombro.
+          p.px-3.mb-4.mt-3.text-center #[b Cuellos por unión de hombro:] se construyen a partir del punto de unión entre el escote y la línea de hombro.
 
       .col-sm-6.col-md-12.col-lg-4.mb-4.mb-sm-0
         .tarjeta--boton.bgrosada.p-4
           .row.justify-content-center.mb-4
             .col-auto
               img(src='@/assets/curso/t3/tar1-ia.png', alt='Texto que describa la imagen')
-          p.px-3.mb-0.mt-3.text-center Cuellos por extensión: surgen como prolongación del mismo patrón, sin pieza adicional, y se pliegan o doblan sobre la prenda.
+          p.px-3.mb-0.mt-3.text-center #[b Cuellos por extensión:] surgen como prolongación del mismo patrón, sin pieza adicional, y se pliegan o doblan sobre la prenda.
 
     .tarjeta.color-primario.p-3(data-aos="fade")
       .row.justify-content-around.align-items-center
