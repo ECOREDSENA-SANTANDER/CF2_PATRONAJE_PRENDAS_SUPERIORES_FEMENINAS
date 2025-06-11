@@ -209,7 +209,7 @@
               h4.mb-1 Video - Traslados de pinza correctiva de talles.
               p.mb-0 Explorar video explicativo sobre cómo se hacen traslados de pinza correctiva de talles.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=encNXGtE15Y" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=sg_UbHStwtk" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 
@@ -239,7 +239,7 @@
               h4.mb-1 Video - Análisis y trazo de sistema de ajuste pinzas y cortes.
               p.mb-0 Video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=rLYn-8vPNlU" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 
@@ -522,7 +522,7 @@
               h4.mb-1 Video – Trazo de manga y cabezas de manga.
               p.mb-0 Paso a paso para conocer el trazo de manga y cabezas de manga. 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=EAl_FBfkYUE" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=flZWxWKNq5s" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 

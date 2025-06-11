@@ -303,7 +303,7 @@
               h4.mb-1  Video – Trazo de escotes y tipo de cuellos.
               p.mb-0 Paso a paso para el trazo de escotes y tipos de cuellos. 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=xjSPGOWXJw0&t=1499s" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Fd19HkRegQQ" target="_blank")
                 span Ver Video
                 i.fas.fa-link
 

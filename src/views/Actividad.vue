@@ -56,9 +56,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 2,
@@ -90,9 +90,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 3,
@@ -123,9 +123,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 4,
@@ -156,9 +156,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 5,
@@ -190,9 +190,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 6,
@@ -223,9 +223,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 7,
@@ -257,9 +257,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 8,
@@ -291,9 +291,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 9,
@@ -325,9 +325,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
         {
           id: 10,
@@ -359,15 +359,15 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+            '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
           mensaje_incorrecto:
-            'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+            'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente! Te felicito, has seleccionado la respuesta correcta.',
+        '¡Excelente felicidades!, ha seleccionado la respuesta correcta.',
       mensaje_final_reprobado:
-        'Te recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }
