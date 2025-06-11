@@ -39,9 +39,47 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           | Aportes del patronaje en la elaboración de prendas
-        figure
-          img.mb-2(src='@/assets/curso/t1/tabla1.png', alt='Ocho dimensiones del patronaje con sus respectivos aportes y beneficios. En ajuste y ergonomía, permite traducir medidas anatómicas en moldes que garantizan comodidad y buen calce. La eficiencia productiva define márgenes y secuencias, reduciendo errores y desperdicios. El escalado de tallas actúa como matriz para adaptar medidas. La creatividad controlada brinda libertad técnica sin perder estructura. La comunicación interdisciplinar estandariza símbolos, facilitando el trabajo en equipo. La viabilidad económica optimiza el uso de materiales y reduce retrabajos. La sustentabilidad apoya sistemas de corte eficiente y menor residuo. Finalmente, la digitalización y archivo acelera procesos y asegura trazabilidad.')
-        figcaption Fuente: SENA, (2021).
+        .tabla-a.color-acento-contenido.estilo1
+          table(alt="Ocho dimensiones del patronaje con sus respectivos aportes y beneficios. En ajuste y ergonomía, permite traducir medidas anatómicas en moldes que garantizan comodidad y buen calce. La eficiencia productiva define márgenes y secuencias, reduciendo errores y desperdicios. El escalado de tallas actúa como matriz para adaptar medidas. La creatividad controlada brinda libertad técnica sin perder estructura. La comunicación interdisciplinar estandariza símbolos, facilitando el trabajo en equipo. La viabilidad económica optimiza el uso de materiales y reduce retrabajos. La sustentabilidad apoya sistemas de corte eficiente y menor residuo. Finalmente, la digitalización y archivo acelera procesos y asegura trazabilidad.")
+            caption Fuente: SENA, (2021).
+            thead
+              tr
+                th(style="width:20%").text-center Dimensión
+                th.text-center Aporte clave del patronaje
+                th.text-center Beneficio directo 
+            tbody
+              tr
+                td Ajuste y ergonomía
+                td Traduce las proporciones anatómicas a superficies planas con puntos de control (busto, cintura, cadera, sisa, escote).
+                td Garantiza comodidad, libertad de movimiento y correcta caída de la prenda.
+              tr
+                td Eficiencia productiva
+                td Define márgenes de costura, piquetes y secuencias de ensamblaje.
+                td Reduce errores en corte y confección, ahorra tiempo y desperdicio de tela.
+              tr
+                td Escalado de tallas
+                td Sirve como “matriz” para gradar medidas hacia tallas superiores o inferiores de forma coherente.
+                td Permite atender diversos rangos de clientela sin rebajar desde cero cada tamaño.
+              tr
+                td Creatividad controlada
+                td Actúa como lienzo técnico para manipular pinzas, volúmenes y líneas de diseño (traslados, añadidos, recortes).
+                td Facilita experimentación con siluetas manteniendo la estructura base estable.
+              tr
+                td Comunicación interdisciplinar
+                td Estandariza símbolos y convenciones (piquetes, líneas de aplome, códigos de pieza).
+                td Mejora el diálogo entre diseñadores, patronistas, cortadores y costureras, minimizando malentendidos.
+              tr
+                td Viabilidad económica
+                td Optimiza el consumo de material mediante tizadas eficientes y verificación previa de ajuste (toile).
+                td Disminuye costos de materia prima y retrabajos.
+              tr
+                td Sustentabilidad
+                td Proporciona bases para sistemas de corte 3D y nesting avanzado, reduciendo excedentes.
+                td Contribuye a prácticas de producción responsable y a la generación de menos residuos.
+              tr
+                td Digitalización y archivo
+                td Facilita la migración a software CAD y la creación de bibliotecas de patrones reutilizables.
+                td Acelera futras colecciones y respalda la trazabilidad documental.
         
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8.col-md-12.col-sm-12
@@ -169,9 +207,55 @@
           .titulo-sexto.color-acento-contenido
             h5 Tabla 2.
             | Comparativo entre patronaje industrial y sobre medidas
-          figure
-            img.mb-2(src='@/assets/curso/t1/tabla2.png', alt='Comparación del patronaje industrial y el patronaje sobre medidas en distintas dimensiones. El industrial se enfoca en producción masiva con tablas estandarizadas, holguras por percentil, gradación sistemática, y una o ninguna prueba; usa tecnologías como CAD, plotters y nesting, se desarrolla en días o semanas, con costos bajos por economía de escala y control por lotes; es típico en fast fashion y uniformes. En contraste, el patronaje sobre medidas es exclusivo, con entre 25 y 40 medidas por cliente, sin gradación, con 2 a 4 pruebas, herramientas manuales, desarrollo más largo, costo alto, revisión pieza a pieza y aplicaciones en alta costura y vestuario escénico.')
-          figcaption Fuente: SENA, (2025).
+          .tabla-a.color-acento-contenido.estilo1
+            table(alt="Comparación del patronaje industrial y el patronaje sobre medidas en distintas dimensiones. El industrial se enfoca en producción masiva con tablas estandarizadas, holguras por percentil, gradación sistemática, y una o ninguna prueba; usa tecnologías como CAD, plotters y nesting, se desarrolla en días o semanas, con costos bajos por economía de escala y control por lotes; es típico en fast fashion y uniformes. En contraste, el patronaje sobre medidas es exclusivo, con entre 25 y 40 medidas por cliente, sin gradación, con 2 a 4 pruebas, herramientas manuales, desarrollo más largo, costo alto, revisión pieza a pieza y aplicaciones en alta costura y vestuario escénico.")
+              caption Fuente: SENA, (2025).
+              thead
+                tr
+                  th.text-center(style="width:20%") Dimensión
+                  th.text-center Patrón industrial
+                  th.text-center Patrón sobre medidas
+              tbody
+                tr
+                  td.text-bold Finalidad
+                  td Producción masiva/tiradas grandes.
+                  td Exclusividad individual/piezas únicas.
+                tr
+                  td.text-bold Base de medidas
+                  td Tablas estandarizadas (S, M, L, XL, XXL).
+                  td 25 - 40 medidas específicas por cliente.
+                tr
+                  td.text-bold Holguras
+                  td Definidas para rangos de percentil.
+                  td Ajustadas caso por caso según postura.
+                tr
+                  td.text-bold Gradación
+                  td Sí, sistemática y computadorizada.
+                  td No (cada prenda es un único tamaño).
+                tr
+                  td.text-bold N.º de pruebas
+                  td 0 - 1 (size set piloto).
+                  td 2 - 4 prototipos por encargo.
+                tr
+                  td.text-bold Tecnología
+                  td CAD/CAM, plotters, nesting automático.
+                  td Herramientas manuales + escáner 3D opcional.
+                tr
+                  td.text-bold Tiempo de desarrollo
+                  td Días o semanas.
+                  td Semanas o meses.
+                tr
+                  td.text-bold Costo unitario
+                  td Bajo - medio (economía de escala).
+                  td Alto (mano de obra especializada).
+                tr
+                  td.text-bold Control de calidad
+                  td Muestreos por lote.
+                  td Revisión total pieza por pieza.
+                tr
+                  td.text-bold Aplicaciones típicas
+                  td Fast fashion, uniforms, marcas de retail.
+                  td Alta costura, sastrería bespoke, vestuario escénico.
 
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
