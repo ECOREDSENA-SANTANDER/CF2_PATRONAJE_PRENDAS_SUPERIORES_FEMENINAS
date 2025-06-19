@@ -165,21 +165,21 @@ export default {
       referencia:
         'Aprende y Emprende. (2022, 3 de diciembre). Clase 1: Toma de medidas – Patronaje femenino paso a paso.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=ppEdTvy94eU&t=1102s',
+      link: 'https://www.youtube.com/watch?v=1pJBNYT1vHM',
     },
     {
-      tema: 'Técnicas de achurados y acabados de la prenda',
+      tema: 'Técnica: achurados y acabados de la prenda.',
       referencia:
         'Aprende y Emprende. (2022, 4 de diciembre). Clase 2: Trazo del patrón delantero – Patronaje femenino paso a paso.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Di4R3jHoNkQ',
+      link: 'https://www.youtube.com/watch?v=5CIToMqMrjg',
     },
     {
-      tema: 'Reconocimientos de las prendas',
+      tema: 'Reconocimientos de las partes de las prendas.',
       referencia:
         'Aprende y Emprende. (2022, 6 de diciembre). Clase 3: Trazo del patrón posterior – Patronaje femenino paso a paso. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=FHhqkd0h4Kw',
+      link: 'https://www.youtube.com/watch?v=tw4Sc7Kr7ZI',
     },
   ],
   glosario: [
