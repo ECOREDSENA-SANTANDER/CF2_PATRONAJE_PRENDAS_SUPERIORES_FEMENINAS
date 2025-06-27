@@ -28,7 +28,7 @@
         | Materiales, insumos y herramientas para el proceso de comprobación 
       .tabla-a.color-acento-contenido.estilo1
         table(alt="Materiales y herramientas necesarias para el proceso de confección, organizados por áreas: en patronaje se usan patrones en cartulina, reglas, curvas, escuadra, ruleta y lápiz para crear moldes rotulados; en el corte, se emplea tela rígida como muselina o popelina sin elastano, tijeras, alfileres y marcadores para facilitar ajustes; la confección requiere máquina recta, hilo contrastante, plancha, almohadilla y descosedor, incluyendo guía para márgenes; en la prueba, se utilizan maniquí o modelo con medidas estándar, espejo y cámara para registrar vistas; y en la documentación, se archivan fichas técnicas, lista de chequeo y fotografías como evidencia del proceso.")
-          caption Fuente: SENA, (2025).
+          caption Fuente: SENA, (2025)
           thead
               tr
                 th.text-center(style="width:18%") Área
@@ -41,19 +41,19 @@
                 td Rotular piezas con nombre, talla y versión.
               tr
                 td.text-bold Corte
-                td Muselina o popelina 100 % algodón sin elastano (≈ 1.8 m), tijeras de sastre 9-10”, alfileres finos o pesos, marcador textil soluble, cinta métrica.
+                td Muselina o popelina 100 % algodón sin elastano (≈ 1,8 m), tijeras de sastre 9 - 10”, alfileres finos o pesos, marcador textil soluble, cinta métrica.
                 td Tela rígida facilita la lectura de ajustes.
               tr
                 td.text-bold Confección
-                td Máquina recta (punzada 2,5-3 mm), hilo poliéster contraste, plancha de vapor, almohadilla sastre, descosedor.
+                td Máquina recta (punzada 2,5 - 3 mm), hilo poliéster contraste, plancha de vapor, almohadilla sastre, descosedor.
                 td Colocar guía magnética en placa para márgenes.
               tr
                 td.text-bold Prueba
-                td Maniquí regulable talla 8 o modelo vivo (busto 88 cm, cintura 68 cm), espejo de cuerpo entero, cámara/móvil.
+                td Maniquí regulable talla 8 o modelo vivo (busto 88 cm, cintura 68 cm), espejo de cuerpo entero, cámara / móvil.
                 td Fotos frontales, laterales y posteriores.
               tr
                 td.text-bold Documentación
-                td Fichas técnicas impresas, checklist, marcador de datos digitales (PDF).
+                td Fichas técnicas impresas, #[em checklist], marcador de datos digitales (PDF).
                 td Archivar patrones y evidencias fotográficas.
 
 
@@ -61,7 +61,7 @@
       .col-lg-7.col-md-12.col-sm-12
         .row
           .col-auto
-            h3.bgmorado.py-2.px-3.borde-redondo B. Requerimientos previos necesarios.
+            h3.bgmorado.py-2.px-3.borde-redondo B. Requerimientos previos necesarios
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-8.col-sm-12
@@ -70,7 +70,7 @@
           | Parámetros de las dimensiones del patrón base
         .tabla-a.color-acento-contenido.estilo1
           table(alt="Medidas base para la talla 8, esenciales en el patronaje de prendas superiores. El busto mide 88 cm con una holgura inicial recomendada de +4 cm; la cintura es de 68 cm con +2 cm de holgura; la altura de busto está entre 19 y 20 cm sin holgura adicional. La cabeza de manga mide 15 cm y el puño de manga, 24 cm, sin indicación de holgura inicial, ya que estas medidas dependen del diseño específico de la prenda.")
-            caption Fuente: SENA, (2025).
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th.text-center(style="width:32%") Parámetro
@@ -167,7 +167,7 @@
                   span.mb-0 Cabeza: altura 15 cm; piquete central (hombro).
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Piquetes: 1 delantero, 2 espalda; largo de sisa frente/posterior rotulado.
+                  span.mb-0 Piquetes: 1 delantero, 2 espalda; largo de sisa frente / posterior rotulado.
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-0 Puño 24 cm (12 cm cada lado) y bajo recto.
@@ -185,7 +185,7 @@
           | Pasos del proceso de corte del patrón base
         .tabla-a.color-acento-contenido.estilo1
           table(alt="Cinco pasos básicos para cortar una prenda en muselina. Primero, se plancha la tela y se coloca recta sobre la mesa. Luego, se alinean las líneas centrales del patrón y la dirección del hilo de la manga paralelos al borde de la tela. Se dibujan los contornos y líneas internas como busto, cintura y sisa, y se marcan pequeñas señales de corte. Después, se agregan márgenes de costura. Finalmente, se cortan las piezas sin levantar la tela y se identifican con etiquetas para frente, espalda y manga.")
-            caption Fuente: SENA, (2025).
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th.text-center(style="width:10%") Paso
@@ -196,7 +196,7 @@
                 td Planchar la muselina; colocar al hilo sobre la mesa.
               tr
                 td.text-bold.text-center 2
-                td Alinear centro frente, centro atrás y la línea de grainline de la manga paralelos al orillo.
+                td Alinear centro frente, centro atrás y la línea de #[em grainline] de la manga paralelos al orillo.
               tr
                 td.text-bold.text-center 3
                 td Trazar contornos, líneas internas (busto, cintura, sisa) y piquetes (cortes de 2 mm).
@@ -232,7 +232,7 @@
               span.mb-2 Cerrar costura bajo manga.
             li.mb-0 
               i.fas.fa-check-circle
-              span.mb-2 Hilvanar manga al cuerpo: piquete hombro→piquetes, delantero/espalda→repartir embebido.
+              span.mb-2 Hilvanar manga al cuerpo: piquete hombro → piquetes, delantero / espalda → repartir embebido.
             li.mb-0 
               i.fas.fa-check-circle
               span.mb-5 Planchar costuras abiertas y pinzas.
@@ -248,7 +248,7 @@
           | Orden del proceso de ensamblaje del prototipo
         .tabla-a.color-acento-contenido.estilo1
           table(alt="El orden de operaciones para confeccionar una prenda superior. Se inicia con una costura de refuerzo en las sisas usando puntada de 2,5 mm, seguida de la costura de pinzas con puntadas entre 2,5 y 3 mm y remates. Luego se unen los hombros y costados con apertura y planchado de costuras. Se realiza frunce en la corona de la manga con puntadas de 4 mm a 0,7 y 1 cm. Después se cierra el bajomanga y se plancha hacia atrás. Se monta la manga ajustando piquetes y frunces con puntadas de 2,5 a 3 mm. Finalmente, se plancha la cabeza de la manga con vapor medio sobre una almohadilla.")
-            caption Fuente: SENA, (2025).
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th.text-center(style="width:12%") Orden
@@ -257,12 +257,12 @@
             tbody
               tr
                 td.text-bold.text-center 0
-                td Stay-stitch en sisas (1 cm)
+                td #[em Stay-stitch] en sisas (1 cm)
                 td Puntada 2,5 mm
               tr
                 td.text-bold.text-center 1
                 td Coser pinzas
-                td Puntada 2,5–3 mm, remates
+                td Puntada 2,5 – 3 mm, remates
               tr
                 td.text-bold.text-center 2
                 td Hombros (1,5 cm)
@@ -282,7 +282,7 @@
               tr
                 td.text-bold.text-center 6
                 td Montar manga (casar piquetes, distribuir frunce)
-                td Puntada 2,5–3 mm
+                td Puntada 2,5 – 3 mm
               tr
                 td.text-bold.text-center 7
                 td Planchar cabeza de manga sobre almohadilla
@@ -316,45 +316,45 @@
             | Lista de chequeo de los elementos del corpiño
           .tabla-a.color-acento-contenido.estilo1
             table(alt="Lista de ítems para verificación del calce con sus respectivos criterios: la línea de busto horizontal debe estar paralela al suelo; la pinza de busto con vértice a 2 cm del busto; holgura de busto de +4 cm ± 0,5 cm y de cintura de +2 cm ± 0,5 cm; caída de hombro entre 12 y 15 grados; sisa con despegue de 1 cm sin pellizcar; escote plano y sin aberturas; y costado perpendicular al piso.")
-              caption Fuente: SENA, (2025).
+              caption Fuente: SENA, (2025)
               thead
                 tr
                   th.text-center(style="width:32%") Ítem
                   th.text-center Criterio
-                  th.text-center(style="width:25%") OK/Ajustar
+                  th.text-center(style="width:25%") OK / Ajustar
               tbody
                 tr
                   td Línea busto horizontal
                   td Paralela al suelo
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Pinza busto
                   td Vértice a 2 cm del busto
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Holgura busto
                   td +4 cm ± 0,5 cm
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Holgura cintura
                   td +2 cm ± 0,5 cm
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
-                  td Caida de hombro
-                  td 12–15°
+                  td Caída de hombro
+                  td 12 – 15°
                   td OK/Ajustar
                 tr
                   td Sisa
                   td Despegue 1 cm sin pellizcar
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Escote
-                  td Plano, sin gape
-                  td OK/Ajustar
+                  td Plano, sin #[em gape]
+                  td OK / Ajustar
                 tr
                   td Costado
                   td Perpendicular al piso
-                  td OK/Ajustar
+                  td OK / Ajustar
 
 
         .col-lg-6.col-md-12.col-sm-12
@@ -364,33 +364,33 @@
             | Lista de chequeo por ítems
           .tabla-a.color-acento-contenido.estilo1
             table(alt="Criterios de revisión para el montaje de la manga: la diferencia entre la longitud de la sisa y la curva de la manga debe ser igual o menor a 0,3 cm; el embebido en la corona debe verse liso, sin frunces; los piquetes deben coincidir con 1 delantero, 2 espalda y hombro alineados; el giro del brazo debe permitir una elevación de 90° sin tirantez; y la costura del costado al bajomanga debe formar una línea continua y fluida.")
-              caption Fuente: SENA, (2025).
+              caption Fuente: SENA, (2025)
               thead
                 tr
                   th.text-center(style="width:40%") Ítem
                   th.text-center Criterio
-                  th.text-center(style="width:20%") OK/Ajustar
+                  th.text-center(style="width:20%") OK / Ajustar
               tbody
                 tr
                   td Longitud sisa vs. curva manga
                   td Diferencia ≤ 0,3 cm
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Embebido corona
-                  td Liso, sin fruncres visibles
-                  td OK/Ajustar
+                  td Liso, sin frunces visibles
+                  td OK / Ajustar
                 tr
                   td Piquetes
                   td 1 F, 2 B y hombro coinciden
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Giro de brazo
                   td Elevar 90° sin tintar
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Costura costado-bajo-manga
-                  td 12–15°
-                  td OK/Ajustar
+                  td 12 – 15°
+                  td OK / Ajustar
 
 
     .row.mb-3(data-aos="fade-left")
@@ -462,7 +462,7 @@
           | Registro de observaciones
         .tabla-a.color-acento-contenido.estilo1
           table(alt="Documentos requeridos al finalizar el proceso: la ficha técnica final debe incluir versión, medidas finales, holguras, fecha y responsable, en formato PDF etiquetado e impreso; las fotografías deben mostrar frente, costado y espalda con brazos relajados y elevados, presentadas como imagen con texto alternativo (alt-text); y los patrones definitivos deben ser el corpiño y la manga en talla 8 versión final, archivados en un cartapacio rígido rotulado.")
-            caption Fuente: SENA, (2025).
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th.text-center(style="width:20%") Documentos
@@ -476,11 +476,11 @@
               tr
                 td Fotografías
                 td Frente, costado, espalda; brazos relajados y elevados.
-                td Imagen + descripción alt text.
+                td Imagen + descripción #[em alt text].
               tr
                 td Patrones definitivos
                 td Corpiño T8 y final, Manga T8 y final.
-                td Imagen + descripción alt text.
+                td Imagen + descripción #[em alt text].
 
 
 
@@ -499,7 +499,7 @@
             | Recomendaciones en ajuste de errores comunes
           .tabla-a.color-acento-contenido.estilo2
             table(alt="Errores frecuentes en muestras de confección, organizados por zonas del cuerpo: corpiño (busto, cintura, hombro, sisa, escote, costado) y manga (corona, bíceps, puño). Para cada zona, se indica el error visible, la causa principal en el patrón y el ajuste sugerido. Los errores incluyen arrugas, bolsas, tirantez, huecos, escotes abiertos, inclinaciones, frunces, exceso o falta de ancho, entre otros, y los ajustes proponen modificaciones específicas en profundidad de pinzas, holguras, curvas, costuras y piezas del patrón.")
-              caption Fuente: SENA, (2025).
+              caption Fuente: SENA, (2025)
               thead
                 tr
                   th.text-center(style="width:10%") Zona
@@ -550,7 +550,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Comprobar tabla de medidas; añadir 0,5 cm en cada costado a nivel cintura.
                 tr
-                  td.text-bold(rowspan="2") Corpiño — hombro/sisa
+                  td.text-bold(rowspan="2") Corpiño — hombro / sisa
                   td Sisa pellizca o limita el movimiento.
                   td Sisa demasiado alta o curva muy cerrada.
                   td 
@@ -562,7 +562,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Añadir 0,3 cm de holgura en costado superior.                        
                 tr
-                  td Hueco/gape en sisa delantera.
+                  td Hueco / #[em gape] en sisa delantera.
                   td Sisa demasiado profunda o pinza busto insuficiente.
                   td 
                     ul.lista-ul--color.gris.fa-al
@@ -574,7 +574,7 @@
                         span.mb-0 Profundizar pinza busto 0,3 - 0,5 cm.
                 tr
                   td.text-bold Corpiño - escote
-                  td Escote delantero se abre (gape).
+                  td Escote delantero se abre (#[em gape]).
                   td Escote demasiado recto o largo de hombro excesivo.
                   td 
                     ul.lista-ul--color.gris.fa-al
@@ -587,7 +587,7 @@
                 tr
                   td.text-bold(rowspan="2") Corpiño — costado
                   td Costado inclinado hacia adelante.
-                  td Exceso de ancho en espalda/falta en delantero.
+                  td Exceso de ancho en espalda / falta en delantero.
                   td 
                     ul.lista-ul--color.gris.fa-al
                       li.mb-0 
@@ -595,7 +595,7 @@
                         span.mb-0 Mover la costura costado 0,5 - 1 cm hacia la espalda en la línea de cintura y busto.
                 tr
                   td Costado inclinado hacia atrás.
-                  td Exceso de ancho en delantero/falta en espalda.
+                  td Exceso de ancho en delantero / falta en espalda.
                   td 
                     ul.lista-ul--color.gris.fa-al
                       li.mb-0 
@@ -674,28 +674,28 @@
           | Lista de abreviaturas y símbolos
         .tabla-a.color-acento-contenido.estilo2
           table(alt="Abreviaturas y símbolos utilizados en el instructivo de patronaje, con su significado y contexto de uso. Incluye referencias como CF (Centro Frente), CB (Centro Espalda), F (Frente), B (Espalda), H (Hombro) y versiones de patrón (v1, v2...). También se explican símbolos técnicos como Stay-stitch para estabilizar costuras, piquetes para ensamblar, líneas de frunce, tolerancias de medida (±0,5 cm) y márgenes de costura estándar (1 cm, 1,5 cm, etc.), todos clave para guiar la manipulación y confección de las piezas.")
-            caption Fuente: SENA, (2025).
+            caption Fuente: SENA, (2025)
             thead
               tr
-                th.text-center(style="width:20%") Abreviatura/símbolo
+                th.text-center(style="width:20%") Abreviatura / símbolo
                 th.text-center(style="width:25%") Significado
                 th.text-center Contexto dentro del instructivo
             tbody
               tr
                 td CF
-                td *Centre front* / centro frente.
+                td #[em Centre front] / centro frente.
                 td Línea vertical de referencia en el patrón y en la prenda que divide el delantero en su eje medio; guía la colocación de cierres o botones.
               tr
                 td CB
-                td *Centre back* / centro espalda.
+                td #[em Centre back] / centro espalda.
                 td Línea vertical central de la espalda; se usa para alinear el patrón y para abrir la prenda en las pruebas.
               tr
                 td F
-                td *Front* / frente (manga).
+                td #[em Front] / frente (manga).
                 td Piquete simple que señala el lado delantero de la sisa de la manga.
               tr
                 td B
-                td *Back* / espalda (manga).
+                td #[em Back] / espalda (manga).
                 td Dos piquetes que identifican el lado posterior de la sisa de la manga.
               tr
                 td H
@@ -704,14 +704,14 @@
               tr
                 td v1, v2, v3...
                 td Versión del patrón.
-                td Indicador de iteraciones sucesivas tras cada ciclo de prueba y ajuste (ejemplo: “T 8 v2”).
+                td Indicador de iteraciones sucesivas tras cada ciclo de prueba y ajuste (ejemplo: “T - 8 v2”).
               tr
-                td *Stay stitch*
+                td #[em Stay stitch]
                 td Costura de estabilizado.
                 td Línea de puntada recta a 1 cm del borde que evita que la sisa o el escote se deformen durante la manipulación.
               tr
                 td ▲ / Corte de 2 mm
-                td Piquete (notch).
+                td Piquete (#[em notch]).
                 td Pequeño corte triangular o recto en los márgenes que ayuda a casar piezas al ensamblar.
               tr
                 td ● ●
@@ -722,7 +722,7 @@
                 td Tolerancia.
                 td Margen de error aceptable al comparar las medidas finales con la tabla estándar.
               tr
-                td 1cm / 1,5cm / 2cm / 3cm
+                td 1 cm / 1,5 cm / 2 cm / 3 cm
                 td Márgenes de costura.
                 td Distancias agregadas al contorno del patrón según la zona (costados, sisas, cinturón, bajo de manga).          
 

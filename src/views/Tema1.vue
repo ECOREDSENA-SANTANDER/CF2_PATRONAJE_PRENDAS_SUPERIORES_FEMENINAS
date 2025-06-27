@@ -23,14 +23,14 @@
             | Plano en 3D 
           figure
             img.mb-2(src='@/assets/curso/t1/fig1.png', alt='Un cubo en dos enfoques. El primero indica su forma tridimensional usando líneas continuas y segmentadas. El segundo lo ubica dentro de un sistema de coordenadas con tres ejes: X (horizontal), Y (vertical) y Z (profundidad), facilitando su comprensión espacial.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
         .col-lg-3.col-md-12.col-sm-12
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
             | Plano en 2D
           figure
             img.mb-2(src='@/assets/curso/t1/fig2.png', alt='Plano de un cubo. Se compone de seis cuadrados unidos entre sí formando una cruz, con pestañas en algunos bordes. Estas pestañas indican zonas de unión al armar la figura tridimensional.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
         .col-lg-4.col-md-12.col-sm-12
           img(src='@/assets/curso/t1/img3.png', alt='')
 
@@ -41,7 +41,7 @@
           | Aportes del patronaje en la elaboración de prendas
         .tabla-a.color-acento-contenido.estilo1
           table(alt="Ocho dimensiones del patronaje con sus respectivos aportes y beneficios. En ajuste y ergonomía, permite traducir medidas anatómicas en moldes que garantizan comodidad y buen calce. La eficiencia productiva define márgenes y secuencias, reduciendo errores y desperdicios. El escalado de tallas actúa como matriz para adaptar medidas. La creatividad controlada brinda libertad técnica sin perder estructura. La comunicación interdisciplinar estandariza símbolos, facilitando el trabajo en equipo. La viabilidad económica optimiza el uso de materiales y reduce retrabajos. La sustentabilidad apoya sistemas de corte eficiente y menor residuo. Finalmente, la digitalización y archivo acelera procesos y asegura trazabilidad.")
-            caption Fuente: SENA, (2021).
+            caption Fuente: SENA, (2021)
             thead
               tr
                 th(style="width:20%").text-center Dimensión
@@ -70,15 +70,15 @@
                 td Mejora el diálogo entre diseñadores, patronistas, cortadores y costureras, minimizando malentendidos.
               tr
                 td Viabilidad económica
-                td Optimiza el consumo de material mediante tizadas eficientes y verificación previa de ajuste (toile).
+                td Optimiza el consumo de material mediante tizadas eficientes y verificación previa de ajuste (#[em toile]).
                 td Disminuye costos de materia prima y retrabajos.
               tr
                 td Sustentabilidad
-                td Proporciona bases para sistemas de corte 3D y nesting avanzado, reduciendo excedentes.
+                td Proporciona bases para sistemas de corte 3D y #[em nesting] avanzado, reduciendo excedentes.
                 td Contribuye a prácticas de producción responsable y a la generación de menos residuos.
               tr
                 td Digitalización y archivo
-                td Facilita la migración a software CAD y la creación de bibliotecas de patrones reutilizables.
+                td Facilita la migración a #[em software] CAD y la creación de bibliotecas de patrones reutilizables.
                 td Acelera futras colecciones y respalda la trazabilidad documental.
         
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -88,7 +88,7 @@
             | De la estructura al molde 
           figure
             img.mb-2(src='@/assets/curso/t1/fig3.png', alt='Proceso técnico del patronaje. Inicia con la estructura del cuerpo humano, continúa con su representación en plano y finaliza con el molde, que permite construir una prenda ajustada al cuerpo. El esquema relaciona cuerpo, geometría y diseño como etapas conectadas.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
         .col-lg-4.col-md-6.col-sm-12
           img.mt-5(src='@/assets/curso/t1/img4.png', alt='')
 
@@ -99,7 +99,7 @@
             | Interpretación en plano y molde 
           figure
             img.mb-2(src='@/assets/curso/t1/fig4.png', alt='Proceso de transformación del cuerpo humano en prenda. Parte de una figura tridimensional, que se traduce a un plano en dos dimensiones, luego a un molde técnico, y finalmente a una prenda confeccionada. Representa el paso de la estructura al diseño terminado.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
 
       Separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -209,7 +209,7 @@
             | Comparativo entre patronaje industrial y sobre medidas
           .tabla-a.color-acento-contenido.estilo1
             table(alt="Comparación del patronaje industrial y el patronaje sobre medidas en distintas dimensiones. El industrial se enfoca en producción masiva con tablas estandarizadas, holguras por percentil, gradación sistemática, y una o ninguna prueba; usa tecnologías como CAD, plotters y nesting, se desarrolla en días o semanas, con costos bajos por economía de escala y control por lotes; es típico en fast fashion y uniformes. En contraste, el patronaje sobre medidas es exclusivo, con entre 25 y 40 medidas por cliente, sin gradación, con 2 a 4 pruebas, herramientas manuales, desarrollo más largo, costo alto, revisión pieza a pieza y aplicaciones en alta costura y vestuario escénico.")
-              caption Fuente: SENA, (2025).
+              caption Fuente: SENA, (2025)
               thead
                 tr
                   th.text-center(style="width:20%") Dimensión
@@ -234,11 +234,11 @@
                   td No (cada prenda es un único tamaño).
                 tr
                   td.text-bold N.º de pruebas
-                  td 0 - 1 (size set piloto).
+                  td 0 - 1 (#[em size set] piloto).
                   td 2 - 4 prototipos por encargo.
                 tr
                   td.text-bold Tecnología
-                  td CAD/CAM, plotters, nesting automático.
+                  td #[em CAD/CAM, plotters, nesting] automático.
                   td Herramientas manuales + escáner 3D opcional.
                 tr
                   td.text-bold Tiempo de desarrollo
@@ -254,8 +254,8 @@
                   td Revisión total pieza por pieza.
                 tr
                   td.text-bold Aplicaciones típicas
-                  td Fast fashion, uniforms, marcas de retail.
-                  td Alta costura, sastrería bespoke, vestuario escénico.
+                  td #[em Fast fashion], uniformes, marcas de #[em retail].
+                  td Alta costura, sastrería #[em bespoke], vestuario escénico.
 
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -409,8 +409,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-1 Se invita a explorar el PDF
-                p.mb-0 Manual de patronaje básico e interpretación  de diseños
+                h4.mb-1 Se invita a explorar el PDF - Manual de patronaje básico e interpretación  de diseños
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar

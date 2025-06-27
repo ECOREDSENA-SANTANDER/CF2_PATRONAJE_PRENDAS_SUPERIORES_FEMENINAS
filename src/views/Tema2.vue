@@ -189,7 +189,7 @@
           | Puntos de traslados de pinza
         figure
           img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Proceso técnico del patronaje. Inicia con la estructura del cuerpo humano, continúa con su representación en plano y finaliza con el molde, que permite construir una prenda ajustada al cuerpo. El esquema relaciona cuerpo, geometría y diseño como etapas conectadas.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
       .col-lg-1
       .col-lg-8.col-md-12.col-12
         .titulo-sexto.color-acento-contenido
@@ -197,7 +197,7 @@
           | Traslados de pinza en base  
         figure
           img.mb-2(src='@/assets/curso/t2/fig7.png', alt='Proceso de transformación del cuerpo humano en prenda. Parte de una figura tridimensional, que se traduce a un plano en dos dimensiones, luego a un molde técnico, y finalmente a una prenda confeccionada. Representa el paso de la estructura al diseño terminado.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
 
     .tarjeta.color-primario.p-3(data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -210,7 +210,7 @@
               p.mb-0 Explorar video explicativo sobre cómo se hacen traslados de pinza correctiva de talles.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=sg_UbHStwtk" target="_blank")
-                span Ver Video
+                span Ir al sitio
                 i.fas.fa-link
 
     Separador
@@ -240,7 +240,7 @@
               p.mb-0 Video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=rLYn-8vPNlU" target="_blank")
-                span Ver Video
+                span Ir al sitio
                 i.fas.fa-link
 
     Separador
@@ -280,7 +280,7 @@
           | Tipos de brazos  
         figure
           img.mb-2(src='@/assets/curso/t2/fig8.png', alt='Cuatro tipos de brazos observados de perfil, clasificados por su volumen. De izquierda a derecha: brazos regulares, delgados, gruesos y muy gruesos.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
     
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
@@ -302,7 +302,7 @@
           | Posición de brazos 
         figure
           img.mb-2(src='@/assets/curso/t2/fig9.png', alt='Tres posiciones del brazo en vista lateral: regular, adelantado y atrasado. Cada una muestra cómo varía la alineación del brazo respecto al centro del hombro, lo cual afecta el trazo y ajuste de la manga en el patronaje.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
 
     .subt2.mb-5(data-aos="fade-right")
       .row.align-items-center
@@ -318,21 +318,21 @@
         .py-4.py-md-5(titulo="Brazo regular" :icono="require('@/assets/curso/t2/tab1-1.png')")
           .row.align-items-center.justify-content-center
             .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
-              p #[b Brazo regular:] 
+              p #[b Brazo regular] 
               p El brazo se alinea con el centro del cuerpo. En este caso, ubicar el centro de la manga en el centro del hombro garantiza una caída equilibrada y sin ajustes adicionales.
             .col-sm-12.col-md-6.col-lg-3
               img(src='@/assets/curso/t2/img12.png', alt='Texto que describa la imagen')
         .py-4.py-md-5(titulo="Brazo adelantado" :icono="require('@/assets/curso/t2/tab1-2.png')")
           .row.align-items-center.justify-content-center
             .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
-              p #[b Brazo adelantado:]
+              p #[b Brazo adelantado]
               p Esta postura desplaza el brazo hacia adelante, arrastrando el omóplato y generando mayor volumen en la espalda. La parte posterior del torso se amplía, mientras que la delantera se acorta y aplana. En estos casos, el centro de la manga debe moverse hacia atrás respecto al hombro del corpiño, y también es necesario ajustar el patrón base, aumentando el largo posterior y reduciendo el anterior.
             .col-sm-12.col-md-6.col-lg-3
               img(src='@/assets/curso/t2/img13.png', alt='Texto que describa la imagen')
         .py-4.py-md-5(titulo="Brazo atrasado" :icono="require('@/assets/curso/t2/tab1-3.png')")
           .row.align-items-center.justify-content-center
             .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
-              p #[b Brazo atrasado:]
+              p #[b Brazo atrasado]
               p Cuando el brazo se retrasa, se incrementa el hueco en el centro de la espalda, se reduce la prominencia del omóplato y disminuye la inclinación del hombro. Esto genera un aumento en el volumen del busto y una disminución del sector posterior del torso. El centro de la manga debe desplazarse hacia adelante respecto al centro del hombro del corpiño, y el patrón debe adaptarse cuidadosamente a estas proporciones para mantener el equilibrio en la prenda.
             .col-sm-12.col-md-6.col-lg-3
               img(src='@/assets/curso/t2/img14.png', alt='Texto que describa la imagen')
@@ -351,13 +351,13 @@
         .row.align-items-center
           img.mb-4(src='@/assets/curso/t2/img15.png', alt='Imagen decorativa.')
           .col-lg-5
-            h2.mb-4.bgmorado Largo de manga: 
+            h2.mb-4.bgmorado Largo de manga
           p.mb-0 Se mide desde el punto acromio hasta la muñeca y se mantiene constante sin importar el tipo de prenda o estilo de la manga.
       .col-md.tarjeta.color2.p-4.p-md-4.p-lg-5(data-aos="fade-left")
         .row.align-items-center
           img.mb-4(src='@/assets/curso/t2/img16.png', alt='Imagen decorativa.')
           .col-lg-7
-            h2.mb-4.bgmorado Cabeza de manga (altura): 
+            h2.mb-4.bgmorado Cabeza de manga (altura)
           p.mb-0 Puede calcularse a partir de una tabla de tallas, por deducción técnica o por valores estandarizados. Su altura influye directamente en el comportamiento de la prenda sobre el cuerpo.
 
     
@@ -396,7 +396,7 @@
           | Tipos de mangas
         figure
           img.mb-2(src='@/assets/curso/t2/fig10.png', alt='Esquema corporal con referencias a distintos largos de manga. Desde el hombro hacia la muñeca se indican las siguientes variantes: sin manga, coqueta, corta, hasta el codo y tres cuartos. Cada una corresponde a una longitud específica del brazo.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9.col-md-12.col-sm-12
@@ -412,7 +412,7 @@
                   | Cabeza de mangas
                 figure
                   img.mb-2(src='@/assets/curso/t2/fig11.png', alt='Prenda superior de manga larga. La parte inferior de la manga está dividida en dos secciones que resaltan los puños y una zona adicional decorativa o funcional.')
-                figcaption Fuente: SENA, (2021).
+                figcaption Fuente: SENA, (2021)
           .row.col-xl-11.m-auto(titulo="Cabeza de manga por medida deducida")
             .row.justify-content-center.align-items-center
               .col-lg-12
@@ -468,14 +468,14 @@
               | Medida de contornos en brazo 
             figure
               img.mb-1(src='@/assets/curso/t2/fig12.png', alt='Proceso de toma de medidas del brazo. Se utiliza una cinta métrica para registrar el contorno en la parte superior, el codo y la muñeca, así como el largo total desde el hombro hasta la muñeca, con el brazo ligeramente flexionado.')
-            figcaption Fuente: SENA, (2021).
+            figcaption Fuente: SENA, (2021)
           .tarjeta.amarilla.py-3.px-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 13.
-              | Figura 13. Medida de largo en brazo 
+              | Medida de largo en brazo 
             figure
               img.mb-1(src='@/assets/curso/t2/fig13.png', alt='Medición del largo total del brazo. La cinta métrica se posiciona desde el punto alto del hombro, pasa por el codo y termina en el puño, con el brazo ligeramente flexionado.')
-            figcaption Fuente: SENA, (2021).
+            figcaption Fuente: SENA, (2021)
 
     .row.mb-5(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12

@@ -24,7 +24,7 @@
           | Líneas en botones
         figure  
           img.mb-1(src='@/assets/curso/t3/fig14.svg', alt='Guía de tamaños de botones según su línea y diámetro, desde 7 mm hasta 5 cm. También se incluyen tipos de botones: planos, con oreja y de distintas formas, así como variaciones de ojales rectos, con ojo y con pestañas. La información está representada con formas y medidas proporcionales.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
       .col-lg-6.col-md-8.col-12
         img(src='@/assets/curso/t3/img1.png', alt='')
 
@@ -48,7 +48,7 @@
             | Aumento para ojal
           figure
             img.mb-1(src='@/assets/curso/t3/fig15.png', alt='Trazo técnico de prenda con indicación de ubicación para botones línea 40. Se señalan las distancias desde el borde y entre sí, así como la línea central y la línea de botonera. Las medidas están dadas en centímetros para garantizar precisión en la confección.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
       .col-lg-3.col-md-5.col-12
         img.mt-5(src='@/assets/curso/t3/img3.png', alt='').d-none.d-lg-block
 
@@ -67,7 +67,7 @@
                     | Extensión de delantero  
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig16.png', alt='Patrón técnico del delantero derecho e izquierdo de una prenda. Se indican la línea del centro, la extensión para cruce y la ubicación de los botones. El cruce del delantero derecho avanza 0,3 cm sobre el izquierdo, formando la base de la botonera.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="2" titulo="Montado de delanteros")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2 Cuando los ojales están dispuestos de forma vertical, el primer y último botón deben colocarse alineados con el tope superior e inferior de sus respectivos ojales. Los botones intermedios se ubican centrados dentro de cada ojal, lo que garantiza una distribución uniforme y un cierre funcional y estético. 
@@ -78,7 +78,7 @@
                     | Montado de delanteros 
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig17.png', alt='Trazo técnico del delantero de una prenda con ubicación de ojales y botones. El primero se coloca al tope superior del ojal, los siguientes al centro, y el último al tope inferior del ojal, siguiendo una distribución vertical simétrica.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="3" titulo="Falsos")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2 Falsos o vueltas, son piezas adicionales utilizadas para rematar bordes como dobladillos, escotes o puños, aportando limpieza y estructura al acabado final. Para crearlos, se traza su forma directamente sobre el patrón base y luego se copia como pieza independiente, con un ancho máximo recomendado de 5 a 6 cm.  
@@ -89,7 +89,7 @@
                     | Falsos
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig18.png', alt='Moldes técnicos de una prenda sin mangas, con sus respectivas vueltas o falsos para escote y sisa en delantero y espalda. Cada pieza está diseñada para encajar con precisión en las curvas correspondientes, asegurando un acabado limpio en el borde.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="4" titulo="Falsos continuos ")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2 Este tipo de vueltas continuas se recomienda especialmente en prendas con hombros angostos, ya que permiten un acabado limpio y uniforme sin añadir volumen innecesario, facilitando el ajuste y la estructura en zonas reducidas. 
@@ -100,7 +100,7 @@
                     | Falsos continuos 
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig19.png', alt='Moldes del delantero y la espalda de una prenda, junto con sus respectivas vueltas de escote. Se indica el sentido del hilo y la ubicación de una pinza en el delantero, así como la instrucción de cerrar la pinza en la vuelta de espalda.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
       .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/t3/img5.png', alt='')
 
@@ -122,7 +122,7 @@
                     | Perilla
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig20.png', alt='Dos variaciones del molde delantero de una prenda. Ambas incluyen pinzas de busto y detalles marcados en línea punteada para indicar cortes o aberturas. La figura de la derecha incorpora una abertura central con doblez y marcas de referencia.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="2" titulo="Pieza perilla")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2.mb-4 Para realizar correctamente el rectángulo de la perilla, realizar estos pasos: 
@@ -146,7 +146,7 @@
                     | Pieza perilla 
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig21.png', alt='Tres elementos relacionados con un diseño de prenda superior. A la izquierda, un molde delantero con abertura vertical central y tres botones alineados. En el centro, una pieza rectangular que funciona como perilla o plaqueta. A la derecha, el mismo molde con la abertura integrada de forma limpia, sin botones visibles.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="3" titulo="Extensión en frente")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2 Para crear una perilla para camisa o blusa, se debe dibujar directamente sobre el patrón base en el centro frente. Luego, se calcula el margen de costura necesario (generalmente 1 cm a cada lado) y se recorta el exceso de patrón si es necesario, dejando solo la línea de referencia donde se unirá la perilla como pieza aparte. Este método asegura un montaje limpio, preciso y alineado con el diseño de la prenda.
@@ -157,7 +157,7 @@
                     | Extensión en frente 
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig22.png', alt='Molde delantero de prenda superior con indicación del hilo de la tela en dirección vertical. En el costado derecho se incluyen líneas punteadas y marcadas, que corresponden a una extensión para formar una cartera interna o perilla.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
           .row(numero="4" titulo="Perilla separada")
             .col-md-12.mb-4.mb-md-0
               p.px-3.mt-2 Para crear el patrón de la perilla aplicada al escote, se traza siguiendo la forma curva del escote sobre el patrón base. Una vez definida la silueta, se copia como pieza independiente respetando esa curvatura. Luego, se agregan los márgenes de costura necesarios (generalmente 1 cm en todo el contorno), asegurando un ajuste limpio y preciso al unirla con la prenda. Esta perilla permite un acabado funcional y estético en escotes redondeados o en V.
@@ -168,7 +168,7 @@
                     | Perilla separada
                   figure
                     img.mb-1(src='@/assets/curso/t3/fig23.png', alt='Tres piezas relacionadas con una prenda superior. A la izquierda, el molde delantero sin margen de abertura. Al centro, una pieza adicional que funciona como perilla. A la derecha, el molde completo con la perilla integrada y una fila vertical de botones sobre el centro frente. Cada parte incluye la indicación del hilo en sentido vertical.')
-                  figcaption Fuente: SENA, (2021).
+                  figcaption Fuente: SENA, (2021)
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -198,7 +198,7 @@
             | Cuello hombro
           figure
             img.mb-1(src='@/assets/curso/t3/fig24.png', alt='Prenda sin mangas vista de frente y de espalda, con cuello camisero resaltado en color. El cuello está compuesto por pie y pala, ajustado alrededor del cuello de la figura. Las líneas punteadas indican proporciones del cuerpo y ejes de referencia.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
 
       p.mb-4.text-center Los largos, son aquellos que se dan por centros, bien sea centro frente o centro atrás.
 
@@ -209,7 +209,7 @@
             | Curva disímil  
           figure
             img.mb-1(src='@/assets/curso/t3/fig25.png', alt='Trazo del escote delantero con la indicación de una curva para el cuello. Se observa un detalle superior con dos piezas marcadas como D (dobladillo) y P (pie del cuello), donde se señala que la curva de unión es diferente a la del escote base.')
-          figcaption Fuente: SENA, (2021).
+          figcaption Fuente: SENA, (2021)
         .col-lg-5.col-md-7.col-12
           img(src='@/assets/curso/t3/img9.png', alt='')
 
@@ -227,14 +227,14 @@
           | Escotes
         figure
           img.mb-1(src='@/assets/curso/t3/fig26.png', alt='Prenda con capucha, vista desde el frente y la espalda. La capucha está señalada en la parte superior de la cabeza, cubriendo desde el cuello hasta el cráneo, adaptándose a la forma de la cabeza y unida al escote de la prenda.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
       .col-lg-4.col-md-6.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 27.
           | Escote cuadrado
         figure
           img.mb-1(src='@/assets/curso/t3/fig27.png', alt='Prenda sin mangas, vista de frente y de espalda. Se destaca una capucha amplia que cubre la cabeza y cae hacia los lados del cuello, unida al escote. Las líneas punteadas indican ejes de proporción en la prenda.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
 
 
     .row.justify-content-center.align-items-center.mb-5.fondo32(data-aos="fade")
@@ -244,7 +244,7 @@
           | Escotes
         figure
           img.mb-2.mt-4(src='@/assets/curso/t3/fig28.png', alt='Molde de prenda superior con capucha. Se identifican dos piezas: una base con escote profundo al centro y una pieza superior que corresponde a la capucha. Ambas se conectan a través de curvas complementarias para permitir el ensamble adecuado. Se usan líneas guía para marcar las uniones entre las partes.')
-        figcaption Fuente: SENA, (2021).
+        figcaption Fuente: SENA, (2021)
       .col-lg-5.col-md-6.col-sm-12.bgmoradonuevo
         SlyderF.circl-arrow.mb-4(columnas="col-lg-12 col-xl-12")
           .tarjeta.clara.py-2.px-0.pb-0
@@ -253,21 +253,21 @@
               | Escote redondo 
             figure
               img.mb-1(src='@/assets/curso/t3/fig29.png', alt='Prenda sin mangas con canesú en la parte superior delantera y trasera. Estas piezas, ubicadas en los hombros y parte alta del pecho y espalda, permiten cortes estructurales o decorativos. Se marcan sobre una figura de cuerpo completo con líneas de proporción.')
-            figcaption Fuente: SENA, (2021).
+            figcaption Fuente: SENA, (2021)
           .tarjeta.clara.py-2.px-0.pb-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 30.
               | Escote en “V”
             figure
               img.mb-1(src='@/assets/curso/t3/fig30.png', alt='Prenda sin mangas con cuello decorativo tipo babero. Este cuello rodea el escote delantero y trasero, adaptándose al contorno del cuello de la figura. Se posiciona sobre la parte superior del torso, resaltando la zona del cuello con una forma redondeada.')
-            figcaption Fuente: SENA, (2021).
+            figcaption Fuente: SENA, (2021)
           .tarjeta.clara.py-2.px-0.pb-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 31.
               | Escote en “U”
             figure
               img.mb-1(src='@/assets/curso/t3/fig31.png', alt='Prenda sin mangas con cuello tipo solapa. La parte delantera tiene una abertura central con solapas que se doblan hacia afuera desde el escote, dando forma estructurada al cuello. Incluye un botón decorativo en el centro frontal. El diseño cubre el torso hasta la línea de la cintura.')
-            figcaption Fuente: SENA, (2021).
+            figcaption Fuente: SENA, (2021)
       p.pt-5.px-5 Los nombres de los escotes y cuellos pueden variar según el entorno comercial o de moda, pero lo más relevante en patronaje es comprender su funcionamiento técnico y cómo deben comportarse sobre el cuerpo.
       p.px-5 En el trazo de cuellos, se trabaja desde una lógica funcional, no comercial. Por eso, en patronaje técnico, todos los cuellos se clasifican en tres grandes grupos según su forma de construcción:
 
@@ -304,7 +304,7 @@
               p.mb-0 Paso a paso para el trazo de escotes y tipos de cuellos. 
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Fd19HkRegQQ" target="_blank")
-                span Ver Video
+                span Ir al sitio
                 i.fas.fa-link
 
     Separador
@@ -327,7 +327,7 @@
                   | Escote redondo 
                 figure
                   img.mb-1(src='@/assets/curso/t3/fig32.png', alt='Bolsillo de forma rectangular con una terminación en punta en la parte inferior. Sus medidas son 6 cm de ancho por 12 cm de largo, con un ángulo inferior de 2,5 cm. Está ubicado en el lado izquierdo del delantero de una prenda superior, y se sugiere incluir márgenes para costura y dobladillo.')
-                figcaption Fuente: SENA, (2021).
+                figcaption Fuente: SENA, (2021)
           .tarjeta.color-primario-claro.p-4(titulo="Bolsillo con pliegue")
             .row.justify-content-center
               .col-lg-6.col-md-6.col-sm-12
@@ -339,7 +339,7 @@
                   | Escote redondo 
                 figure
                   img.mb-1(src='@/assets/curso/t3/fig33.png', alt='Diferentes tipos de bolsillos decorativos diseñados para prendas superiores. Incluye bolsillos rectangulares y con terminaciones en ángulo. Algunos modelos tienen detalles verticales marcados al centro, y uno de ellos incorpora una tapa. Las dimensiones varían entre 3 y 6 cm de ancho, y entre 3,5 y 5 cm de alto, con sugerencias de costura indicadas por líneas punteadas.')
-                figcaption Fuente: SENA, (2021).
+                figcaption Fuente: SENA, (2021)
 
 
 
