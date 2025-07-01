@@ -400,7 +400,7 @@
         .col-lg-6.col-md-12.col-sm-12
           img(src='@/assets/curso/t1/img10.png', alt='')
 
-      p.text-center.mb-5 Estas convenciones y herramientas son fundamentales para garantizar precisión, claridad y estandarización en el desarrollo técnico de los patrones.
+      p.mb-5 Estas convenciones y herramientas son fundamentales para garantizar precisión, claridad y estandarización en el desarrollo técnico de los patrones.
 
       .tarjeta.color-primario.p-3(data-aos="fade")
         .row.justify-content-around.align-items-center
