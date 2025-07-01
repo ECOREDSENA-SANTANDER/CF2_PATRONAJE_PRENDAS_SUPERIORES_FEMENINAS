@@ -333,16 +333,16 @@
                   td OK / Ajustar
                 tr
                   td Holgura busto
-                  td +4 cm ± 0,5 cm
+                  td + 4 cm ± 0,5 cm
                   td OK / Ajustar
                 tr
                   td Holgura cintura
-                  td +2 cm ± 0,5 cm
+                  td + 2 cm ± 0,5 cm
                   td OK / Ajustar
                 tr
                   td Caída de hombro
                   td 12 – 15°
-                  td OK/Ajustar
+                  td OK / Ajustar
                 tr
                   td Sisa
                   td Despegue 1 cm sin pellizcar
@@ -510,7 +510,7 @@
                   th.text-center Ajuste sobre el patrón
               tbody
                 tr
-                  td.text-bold(rowspan="2") Corpiño — busto
+                  td.text-bold(rowspan="2") Corpiño - busto
                   td Arrugas horizontales que tiran hacia el centro del busto.
                   td Falta de holgura o pinza de busto insuficiente.
                   td  
@@ -533,7 +533,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Retrasar el vértice 1 - 1,5 cm hacia el costado.
                 tr
-                  td.text-bold(rowspan="2") Corpiño — cintura
+                  td.text-bold(rowspan="2") Corpiño - cintura
                   td Exceso de tela (bolsa) en cintura espalda.
                   td Pinza de cintura poco profunda.
                   td 
@@ -550,7 +550,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Comprobar tabla de medidas; añadir 0,5 cm en cada costado a nivel cintura.
                 tr
-                  td.text-bold(rowspan="2") Corpiño — hombro / sisa
+                  td.text-bold(rowspan="2") Corpiño - hombro / sisa
                   td Sisa pellizca o limita el movimiento.
                   td Sisa demasiado alta o curva muy cerrada.
                   td 
@@ -585,7 +585,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Ajustar inclinación de hombro si es necesario.                       
                 tr
-                  td.text-bold(rowspan="2") Corpiño — costado
+                  td.text-bold(rowspan="2") Corpiño - costado
                   td Costado inclinado hacia adelante.
                   td Exceso de ancho en espalda / falta en delantero.
                   td 
@@ -625,7 +625,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Disminuir frunce retirando 0,5 cm en la costura de manga desde piquete delantero a piquete espalda.
                 tr
-                  td.text-bold(rowspan="2") Manga — bíceps
+                  td.text-bold(rowspan="2") Manga - bíceps
                   td Tirantez al doblar el brazo.
                   td Ancho de manga insuficiente en bíceps.
                   td 
@@ -642,8 +642,8 @@
                         i.fas.fa-check-circle
                         span.mb-0 Reducir 0,5 - 1 cm en cada lado de la costura bajo manga y suavizar hacia puño.
                 tr
-                  td.text-bold(rowspan="2") Manga — puño
-                  td Puño muy ancho (CAE).
+                  td.text-bold(rowspan="2") Manga - puño
+                  td Puño muy ancho (cae).
                   td Ancho de puño excesivo.
                   td 
                     ul.lista-ul--color.gris.fa-al

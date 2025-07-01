@@ -200,7 +200,7 @@
             img.mb-1(src='@/assets/curso/t3/fig24.png', alt='Prenda sin mangas vista de frente y de espalda, con cuello camisero resaltado en color. El cuello está compuesto por pie y pala, ajustado alrededor del cuello de la figura. Las líneas punteadas indican proporciones del cuerpo y ejes de referencia.')
           figcaption Fuente: SENA, (2021)
 
-      p.mb-4.text-center Los largos, son aquellos que se dan por centros, bien sea centro frente o centro atrás.
+      p.mb-4 Los largos, son aquellos que se dan por centros, bien sea centro frente o centro atrás.
 
       .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
         .col-lg-5.col-md-7.col-12
@@ -241,7 +241,7 @@
       .col-lg-4.col-md-6.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 28.
-          | Escotes
+          | Escote bandeja
         figure
           img.mb-2.mt-4(src='@/assets/curso/t3/fig28.png', alt='Molde de prenda superior con capucha. Se identifican dos piezas: una base con escote profundo al centro y una pieza superior que corresponde a la capucha. Ambas se conectan a través de curvas complementarias para permitir el ensamble adecuado. Se usan líneas guía para marcar las uniones entre las partes.')
         figcaption Fuente: SENA, (2021)
@@ -300,7 +300,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1  Video – Trazo de escotes y tipo de cuellos.
+              h4.mb-1  Video – Trazo de escotes y tipos de cuellos.
               p.mb-0 Paso a paso para el trazo de escotes y tipos de cuellos. 
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Fd19HkRegQQ" target="_blank")
@@ -324,7 +324,7 @@
               .col-lg-5.col-md-5.col-sm-12
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 32.
-                  | Escote redondo 
+                  | Bolsillo básico
                 figure
                   img.mb-1(src='@/assets/curso/t3/fig32.png', alt='Bolsillo de forma rectangular con una terminación en punta en la parte inferior. Sus medidas son 6 cm de ancho por 12 cm de largo, con un ángulo inferior de 2,5 cm. Está ubicado en el lado izquierdo del delantero de una prenda superior, y se sugiere incluir márgenes para costura y dobladillo.')
                 figcaption Fuente: SENA, (2021)
@@ -336,7 +336,7 @@
               .col-lg-5.col-md-5.col-sm-12
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 33.
-                  | Escote redondo 
+                  | Bolsillo con pliegue
                 figure
                   img.mb-1(src='@/assets/curso/t3/fig33.png', alt='Diferentes tipos de bolsillos decorativos diseñados para prendas superiores. Incluye bolsillos rectangulares y con terminaciones en ángulo. Algunos modelos tienen detalles verticales marcados al centro, y uno de ellos incorpora una tapa. Las dimensiones varían entre 3 y 6 cm de ancho, y entre 3,5 y 5 cm de alto, con sugerencias de costura indicadas por líneas punteadas.')
                 figcaption Fuente: SENA, (2021)

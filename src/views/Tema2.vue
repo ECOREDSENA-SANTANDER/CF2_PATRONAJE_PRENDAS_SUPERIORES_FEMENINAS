@@ -88,7 +88,7 @@
       .col-lg-6.col-md-12.col-sm-12
         img(src='@/assets/curso/t2/img3.png', alt='')
 
-    p.text-center.mb-5 Estas medidas permiten construir un patrón técnico ajustado al cuerpo, que servirá de base para distintas prendas superiores femeninas.
+    p.mb-5 Estas medidas permiten construir un patrón técnico ajustado al cuerpo, que servirá de base para distintas prendas superiores femeninas.
 
     .tarjeta.color-primario.p-3.mb-3(data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -111,8 +111,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Se invita a explorar el PDF
-              p.mb-0 Pasos para el trazo de la base superior.
+              h4.mb-1 Se invita a explorar el PDF - Pasos para el trazo de la base superior.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/3_Anexo.pdf')" target="_blank")
                 span Descargar
@@ -180,7 +179,7 @@
       .col-lg-3.col-md-5.col-5
         img(src='@/assets/curso/t2/img6.png', alt='')
 
-    p.text-center.mb-5 Estas técnicas permiten transformar el patrón base según criterios estéticos, funcionales o de ajuste.
+    p.mb-5 Estas técnicas permiten transformar el patrón base según criterios estéticos, funcionales o de ajuste.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-5.col-12
@@ -188,7 +187,7 @@
           h5 Figura 6.
           | Puntos de traslados de pinza
         figure
-          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Proceso técnico del patronaje. Inicia con la estructura del cuerpo humano, continúa con su representación en plano y finaliza con el molde, que permite construir una prenda ajustada al cuerpo. El esquema relaciona cuerpo, geometría y diseño como etapas conectadas.')
+          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Patrón base superior femenino con pinza de busto central. Desde ese punto se trazan líneas radiales hacia diferentes direcciones del molde, enumeradas del 1 al 9. Estas líneas indican posibles ubicaciones para trasladar la pinza, según el diseño o transformación deseada.')
         figcaption Fuente: SENA, (2021)
       .col-lg-1
       .col-lg-8.col-md-12.col-12
@@ -196,7 +195,7 @@
           h5 Figura 7.
           | Traslados de pinza en base  
         figure
-          img.mb-2(src='@/assets/curso/t2/fig7.png', alt='Proceso de transformación del cuerpo humano en prenda. Parte de una figura tridimensional, que se traduce a un plano en dos dimensiones, luego a un molde técnico, y finalmente a una prenda confeccionada. Representa el paso de la estructura al diseño terminado.')
+          img.mb-2(src='@/assets/curso/t2/fig7.png', alt='Nueve transformaciones distintas de un patrón base superior con pinza. Cada figura muestra una variante en la ubicación de la pinza, redirigiada hacia diferentes áreas del molde, como hombro, escote, costado o cintura.')
         figcaption Fuente: SENA, (2021)
 
     .tarjeta.color-primario.p-3(data-aos="fade")
@@ -510,7 +509,7 @@
       .col-lg-6.col-md-8.col-12
         img(src='@/assets/curso/t2/img21.png', alt='')
 
-    p.mb-5.text-center Estas variables aseguran un trazo técnico adecuado, adaptado al diseño y a la morfología del usuario.
+    p.mb-5 Estas variables aseguran un trazo técnico adecuado, adaptado al diseño y a la morfología del usuario.
 
     .tarjeta.color-primario.p-3.mb-4(data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -523,7 +522,7 @@
               p.mb-0 Paso a paso para conocer el trazo de manga y cabezas de manga. 
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=flZWxWKNq5s" target="_blank")
-                span Ver Video
+                span Ir al sitio
                 i.fas.fa-link
 
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade")

@@ -161,21 +161,21 @@ export default {
   },
   complementario: [
     {
-      tema: 'Trazo de bitácora de formas. ',
+      tema: 'Patronaje',
       referencia:
         'Aprende y Emprende. (2022, 3 de diciembre). Clase 1: Toma de medidas – Patronaje femenino paso a paso.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1pJBNYT1vHM',
     },
     {
-      tema: 'Técnica: achurados y acabados de la prenda.',
+      tema: 'Patronaje',
       referencia:
         'Aprende y Emprende. (2022, 4 de diciembre). Clase 2: Trazo del patrón delantero – Patronaje femenino paso a paso.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5CIToMqMrjg',
     },
     {
-      tema: 'Reconocimientos de las partes de las prendas.',
+      tema: 'Patronaje',
       referencia:
         'Aprende y Emprende. (2022, 6 de diciembre). Clase 3: Trazo del patrón posterior – Patronaje femenino paso a paso. ',
       tipo: 'Video',
@@ -206,12 +206,12 @@ export default {
     {
       termino: 'Molde',
       significado:
-        'termino usado en el patronaje para señalar que después del trazo de planos se llegan a abstraer los elementos que permiten proceder con el corte del textil.',
+        'término usado en el patronaje para señalar que después del trazo de planos se llegan a abstraer los elementos que permiten proceder con el corte del textil.',
     },
     {
       termino: 'Cabeza de manga',
       significado:
-        'curvatura superior de la manga que se adapta a la sisa. su altura varía según el tipo de prenda y afecta el movimiento y estructura.',
+        'curvatura superior de la manga que se adapta a la sisa. Su altura varía según el tipo de prenda y afecta el movimiento y estructura.',
     },
     {
       termino: 'Crecimiento de talla',
@@ -302,7 +302,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -336,8 +336,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

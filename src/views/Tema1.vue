@@ -41,7 +41,7 @@
           | Aportes del patronaje en la elaboración de prendas
         .tabla-a.color-acento-contenido.estilo1
           table(alt="Ocho dimensiones del patronaje con sus respectivos aportes y beneficios. En ajuste y ergonomía, permite traducir medidas anatómicas en moldes que garantizan comodidad y buen calce. La eficiencia productiva define márgenes y secuencias, reduciendo errores y desperdicios. El escalado de tallas actúa como matriz para adaptar medidas. La creatividad controlada brinda libertad técnica sin perder estructura. La comunicación interdisciplinar estandariza símbolos, facilitando el trabajo en equipo. La viabilidad económica optimiza el uso de materiales y reduce retrabajos. La sustentabilidad apoya sistemas de corte eficiente y menor residuo. Finalmente, la digitalización y archivo acelera procesos y asegura trazabilidad.")
-            caption Fuente: SENA, (2021)
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th(style="width:20%").text-center Dimensión
@@ -79,7 +79,7 @@
               tr
                 td Digitalización y archivo
                 td Facilita la migración a #[em software] CAD y la creación de bibliotecas de patrones reutilizables.
-                td Acelera futras colecciones y respalda la trazabilidad documental.
+                td Acelera futuras colecciones y respalda la trazabilidad documental.
         
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8.col-md-12.col-sm-12
@@ -218,8 +218,8 @@
               tbody
                 tr
                   td.text-bold Finalidad
-                  td Producción masiva/tiradas grandes.
-                  td Exclusividad individual/piezas únicas.
+                  td Producción masiva / tiradas grandes.
+                  td Exclusividad individual / piezas únicas.
                 tr
                   td.text-bold Base de medidas
                   td Tablas estandarizadas (S, M, L, XL, XXL).
@@ -361,7 +361,7 @@
             .col-lg
               p.mt-3.text-center Escala 1:4 (cuarta parte).
       
-      p.mb-5.text-center El trazo a escala es útil para construir patrones base en versiones reducidas y facilitar su análisis.
+      p.mb-5 El trazo a escala es útil para construir patrones base en versiones reducidas y facilitar su análisis.
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-6.col-md-12.col-sm-12
@@ -409,7 +409,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-1 Se invita a explorar el PDF - Manual de patronaje básico e interpretación  de diseños
+                h4.mb-1 Se invita a explorar el PDF - Manual de patronaje básico e interpretación  de diseños.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar
