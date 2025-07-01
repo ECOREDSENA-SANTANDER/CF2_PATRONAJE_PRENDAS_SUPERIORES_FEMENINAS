@@ -161,23 +161,23 @@ export default {
   },
   complementario: [
     {
-      tema: 'Patronaje',
+      tema: 'Piezas complementarias',
       referencia:
-        'Aprende y Emprende. (2022, 3 de diciembre). Clase 1: Toma de medidas – Patronaje femenino paso a paso.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024). Trazo de bitácora de formas.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1pJBNYT1vHM',
     },
     {
-      tema: 'Patronaje',
+      tema: 'Patrones base de prendas femeninas',
       referencia:
-        'Aprende y Emprende. (2022, 4 de diciembre). Clase 2: Trazo del patrón delantero – Patronaje femenino paso a paso.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Técnica: achurados y acabados de la prenda.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5CIToMqMrjg',
     },
     {
       tema: 'Patronaje',
       referencia:
-        'Aprende y Emprende. (2022, 6 de diciembre). Clase 3: Trazo del patrón posterior – Patronaje femenino paso a paso. ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Reconocimiento de las partes de las prendas.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=tw4Sc7Kr7ZI',
     },
