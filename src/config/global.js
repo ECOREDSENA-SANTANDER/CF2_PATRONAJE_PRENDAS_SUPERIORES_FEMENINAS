@@ -163,14 +163,14 @@ export default {
     {
       tema: 'Piezas complementarias',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2024). Trazo de bitácora de formas.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024). Trazo de bitácora de formas (complementos).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1pJBNYT1vHM',
     },
     {
       tema: 'Patrones base de prendas femeninas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Técnica: achurados y acabados de la prenda.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Técnica: achurados y acabados de las prendas.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5CIToMqMrjg',
     },
