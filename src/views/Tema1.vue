@@ -290,7 +290,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-1  Se invita a explorar el PDF – Pasos para definir el patronaje.
+                h4.mb-1  Se invita a explorar el PDF – “Manual de patronaje básico e interpretación de diseños”.
                 p.mb-0 Manual de patronaje del SENA.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/4_Anexo.pdf')" target="_blank")

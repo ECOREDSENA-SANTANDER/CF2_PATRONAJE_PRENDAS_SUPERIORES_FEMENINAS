@@ -310,8 +310,6 @@
         .col-md-auto.col-9.ps-0
           h3.mb-0.text-black Tipos de posición del brazo y su impacto en el trazado de la manga
 
-    p La base superior es el molde que representa la forma del cuerpo desde el cuello hasta la cintura. Esta plantilla sirve como punto de partida para desarrollar prendas como blusas, camisetas, chaquetas, chalecos, corpiños e incluso vestidos. Su correcta elaboración garantiza un buen ajuste y facilita su transformación posterior según el diseño deseado.
-
     .row.justify-content-center.align-items-center.mt-5.mb-5(data-aos="fade-left")
       TabsB.color-acento-contenido.escala-grises
         .py-4.py-md-5(titulo="Brazo regular" :icono="require('@/assets/curso/t2/tab1-1.png')")
@@ -476,7 +474,7 @@
               img.mb-1(src='@/assets/curso/t2/fig13.png', alt='Medición del largo total del brazo. La cinta métrica se posiciona desde el punto alto del hombro, pasa por el codo y termina en el puño, con el brazo ligeramente flexionado.')
             figcaption Fuente: SENA, (2021)
 
-    .row.mb-5(data-aos="fade-left")
+    .row.mb-5
       .col-lg-7.col-md-12.col-sm-12
         .row
           .col-auto
