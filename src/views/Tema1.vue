@@ -293,7 +293,7 @@
                 h4.mb-1  Se invita a explorar el PDF – “Manual de patronaje básico e interpretación de diseños”.
                 p.mb-0 Manual de patronaje del SENA.
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/4_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -409,9 +409,9 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-1 Se invita a explorar el PDF - Manual de patronaje básico e interpretación  de diseños.
+                h4.mb-1 Se invita a explorar el PDF - Interpretación de simbologías técnicas y reconocimiento de la estructura corporal en procesos de patronaje y corte
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/3_Anexo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
