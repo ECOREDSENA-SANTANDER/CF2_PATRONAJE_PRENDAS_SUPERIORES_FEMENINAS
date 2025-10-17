@@ -152,11 +152,11 @@
         
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-lg-6.col-md-12.col-sm-12.bgfondotar.p-5
-          .row.align-items-center.mb-4.mt-2
+          .row.align-items-center.mb-3.mt-2
             .col-auto
               img(src='@/assets/curso/t1/tar1-1.png', alt='')
-            .col-7.mt-5
-              p.bgmorado.px-2.mt-5 Se aplican dos técnicas principales:
+            .col-7.mt-2
+              p.bgmorado.px-2.mt-3 Se aplican dos técnicas principales:
           .row.mt-4
             ul.lista-ul--color.fa-al
               li.mb-0 
@@ -172,8 +172,7 @@
             | Patronaje sobre maniquí 
           figure
             img.mb-2(src='@/assets/curso/t1/fig5.png', alt='Proceso de construcción de una prenda directamente sobre un maniquí. Se trabaja con una pieza de tela fijada con alfileres, marcando líneas guía que siguen las proporciones del cuerpo.')
-          figcaption Fuente: https://www.freepik.es/foto-gratis/mujer-crea-patrones-ropa-maniquies_15970721.htm#fromView=search&page=1&position=14&uuid=326d4dae-c7e9-475a-b876-514a3acf71ac&query=patronaje+maniqui
-
+        
       .row.justify-content-center.align-items-center.mb-4.mt-4(data-aos="fade-right")
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/t1/img6.png', alt='')
